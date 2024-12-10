@@ -18,7 +18,7 @@ def drop_columns(df, columns):
 
 
 # List of columns to drop
-cols = ['img-link href', 'photo-count', 'list-view-date', ...]
+cols = ['img-link href', 'photo-count','list-view-date', 'list-view-title', 'left' , 'he-lazy-image src',  'img-wrp href', 'he-lazy-image src 2', 'listing-card--owner-info__firm-name', 'listing-card--owner-info__name', 'img-wrp href 2', 'he-lazy-image src 3', 'wp-btn']
 drop_columns(df, cols) 
 df.info() 
 
@@ -62,5 +62,6 @@ df["age"] = df["celly 3"].apply(lambda x: x.split(" ")[0])
 
 print(df["age"].unique())
 
-
+df.info()
+drop_columns(df, ["celly", "celly 2", "celly 3"])
 
