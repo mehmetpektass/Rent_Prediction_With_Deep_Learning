@@ -35,3 +35,5 @@ df.head()
 
 # Drop the 'list-view-location' column after splitting its values
 drop_columns(df, ["list-view-location"])
+drop_columns(df, ["city"])
+
