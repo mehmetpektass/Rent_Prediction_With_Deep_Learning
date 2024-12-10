@@ -53,3 +53,14 @@ df["area"] = df["celly 2"].apply(lambda x: x.split(" ")[0]).astype(int)
 
 df["area"].unique()
 
+
+# Clean and transform "celly 3" column
+df["celly 3"].unique()
+df["celly 3"] = df["celly 3"].apply(lambda x: str(x).replace("Sıfır Bina" , "0 Yaşında"))
+df["celly 3"] = df["celly 3"].apply(lambda x: x.replace("\n" , " "))
+df["age"] = df["celly 3"].apply(lambda x: x.split(" ")[0])
+
+print(df["age"].unique())
+df[df["age"] == 1]
+
+
