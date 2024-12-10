@@ -54,14 +54,40 @@ df["area"] = df["celly 2"].apply(lambda x: x.split(" ")[0]).astype(int)
 df["area"].unique()
 
 
-# Clean and transform "celly 3" column
+# Clean and transform "celly 3" column and drop some columns
 df["celly 3"].unique()
 df["celly 3"] = df["celly 3"].apply(lambda x: str(x).replace("Sıfır Bina" , "0 Yaşında"))
 df["celly 3"] = df["celly 3"].apply(lambda x: x.replace("\n" , " "))
 df["age"] = df["celly 3"].apply(lambda x: x.split(" ")[0])
 
 print(df["age"].unique())
-
-df.info()
 drop_columns(df, ["celly", "celly 2", "celly 3"])
 
+
+# Clean and transform "celly 4" column and drop a column
+replace_dict = {
+    'Kot 2': '-2. Kat',
+    'Kot 1': '-1. Kat',
+    'Yüksek Giriş': '1. Kat',
+    'Ara Kat': '3. Kat',
+    'En Üst Kat': '5. Kat',
+    'Bahçe Katı': '0. Kat',
+    'Yarı Bodrum': '0. Kat',
+    'Bodrum': '0. Kat',
+    'Kot 3': '-3. Kat',
+    'Çatı Katı': '5. Kat',
+    'Zemin': '0. Kat',
+    'Giriş Katı': '0. Kat',
+    'Villa Katı': '0. Kat',
+    '21 ve üzeri': '21. Kat',
+    'Bodrum ve Zemin': '0. Kat',
+    'Asma Kat': '1. Kat',
+    'Tripleks': '0. Kat',
+    'Teras Katı': '5. Kat',
+    'nan': '2. Kat',
+}
+df["celly 4"] = df["celly 4"].replace(replace_dict.keys(), replace_dict.values()).astype(str)
+df["floor"] = df["celly 4"].apply(lambda x: x.split(".")[0]).astype(int)
+print(df['floor'].unique())
+
+drop_columns(df, ["celly 4"])
