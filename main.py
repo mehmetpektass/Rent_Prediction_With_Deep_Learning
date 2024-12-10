@@ -30,10 +30,18 @@ df["neighborhood"] = df["list-view-location"].str.split("/").str[2]
 df["neighborhood"] = df["neighborhood"].apply(lambda x: " ".join(x))
 
 df.info()  
-df.head() 
+df.head(10) 
 
 
 # Drop the 'list-view-location' column after splitting its values
 drop_columns(df, ["list-view-location"])
 drop_columns(df, ["city"])
 
+
+
+df["celly"] = df["celly"].apply(lambda x: x.replace("Stüdyo" , "1+0"))
+df["celly"] = df["celly"].apply(lambda x: x.replace("/n" , ""))
+df["room"] = df["celly"].apply(lambda x: x.split("+")[0]).astype(int)
+df["living_room"] = df["celly"].apply(lambda x: x.split("+")[1]).astype(int)
+
+df["room"].unique()
