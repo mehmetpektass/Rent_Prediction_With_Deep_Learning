@@ -40,7 +40,7 @@ drop_columns(df, ["city"])
 
 # Clean and transform 'celly' column
 df["celly"] = df["celly"].apply(lambda x: x.replace("Stüdyo" , "1+0"))
-df["celly"] = df["celly"].apply(lambda x: x.replace("/n" , ""))
+df["celly"] = df["celly"].apply(lambda x: x.replace("\n" , ""))
 df["room"] = df["celly"].apply(lambda x: x.split("+")[0]).astype(int)
 df["living_room"] = df["celly"].apply(lambda x: x.split("+")[1]).astype(int)
 
@@ -61,6 +61,6 @@ df["celly 3"] = df["celly 3"].apply(lambda x: x.replace("\n" , " "))
 df["age"] = df["celly 3"].apply(lambda x: x.split(" ")[0])
 
 print(df["age"].unique())
-df[df["age"] == 1]
+
 
 
