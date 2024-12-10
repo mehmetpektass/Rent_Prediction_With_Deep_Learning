@@ -91,3 +91,14 @@ df["floor"] = df["celly 4"].apply(lambda x: x.split(".")[0]).astype(int)
 print(df['floor'].unique())
 
 drop_columns(df, ["celly 4"])
+
+
+# Clean and transform "list-view-price" column and drop a column
+df['list-view-price'] = df['list-view-price'].astype(str).apply(lambda x: x.replace('.', ''))
+df['price'] = df['list-view-price'].astype(int)
+print(df['price'].unique())
+
+drop_columns(df, ["list-view-price"])
+
+
+df.to_csv("data.csv" , index=False)
