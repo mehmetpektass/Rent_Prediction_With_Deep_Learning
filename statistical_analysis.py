@@ -3,6 +3,7 @@ import numpy as np
 
 df = pd.read_csv("data.csv")
 
+# This ensures consistent data types for numerical operations
 df["district"] = df["district"].astype("category")
 df["neighborhood"] = df["neighborhood"].astype("category")
 df['room'] = df['room'].astype('int')
@@ -14,7 +15,7 @@ df['price'] = df['price'].astype('int')
 
 df.describe()
 
-
+# Calculate the interquartile range (IQR) for each numerical column
 columns = df.select_dtypes(include=[np.number]).columns
 min_values = []
 max_values = []
@@ -27,3 +28,10 @@ for column in columns:
     min_values.append(min_value)
     max_values.append(max_value)
     print(f"Column: {column}, min: {min_value}, max: {max_value}")
+    
+
+# Filter the DataFrame to remove outliers and filter price by a number
+for i, column in enumerate(columns):
+    df = df[(df[column] <= max_values[i]) & (df[column] >=min_values[i])]
+    
+df = df[df["price"] >= 2500]
