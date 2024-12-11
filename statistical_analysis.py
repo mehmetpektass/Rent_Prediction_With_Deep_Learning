@@ -12,7 +12,18 @@ df['age'] = df['age'].astype('int')
 df['floor'] = df['floor'].astype('int')
 df['price'] = df['price'].astype('int')
 
-print(df["age"].unique())
-df.head(20)
-df.info()
 df.describe()
+
+
+columns = df.select_dtypes(include=[np.number]).columns
+min_values = []
+max_values = []
+for column in columns:
+    Q1 = df[column].quantile(0.25)
+    Q3 = df[column].quantile(0.75)
+    IQR = Q3 - Q1
+    min_value = Q1 - 1.5*IQR
+    max_value = Q3 + 1.5*IQR
+    min_values.append(min_value)
+    max_values.append(max_value)
+    print(f"Column: {column}, min: {min_value}, max: {max_value}")
