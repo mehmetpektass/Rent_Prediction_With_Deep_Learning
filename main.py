@@ -27,7 +27,7 @@ df.info()
 df["city"] = df["list-view-location"].str.split("/").str[0]
 df["district"] = df["list-view-location"].str.split("/").str[1]
 df["neighborhood"] = df["list-view-location"].str.split("/").str[2]
-df["neighborhood"] = df["neighborhood"].apply(lambda x: " ".join(x))
+
 
 df.info()  
 df.head() 
@@ -55,10 +55,13 @@ df["area"].unique()
 
 
 # Clean and transform "celly 3" column and drop some columns
-df["celly 3"].unique()
+
+
+
 df["celly 3"] = df["celly 3"].apply(lambda x: str(x).replace("Sıfır Bina" , "0 Yaşında"))
 df["celly 3"] = df["celly 3"].apply(lambda x: x.replace("\n" , " "))
 df["age"] = df["celly 3"].apply(lambda x: x.split(" ")[0])
+df["age"] = df["age"].apply(lambda x: x.replace("nan", "0") if isinstance(x, str) else x)
 
 print(df["age"].unique())
 drop_columns(df, ["celly", "celly 2", "celly 3"])
