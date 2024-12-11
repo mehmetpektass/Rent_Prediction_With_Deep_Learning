@@ -34,4 +34,4 @@ for column in columns:
 for i, column in enumerate(columns):
     df = df[(df[column] <= max_values[i]) & (df[column] >=min_values[i])]
     
-
+df = df[df["price"] >= 2500]
