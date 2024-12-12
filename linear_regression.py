@@ -79,7 +79,7 @@ for i in range(len(categorical_features)):
         
 new_data = pd.DataFrame({
     'district': ['Beşiktaş'],
-    'neighborhood': ['Balmumcu Mah.'],
+    'neighborhood': ['Balmumcu'],
     'room': [4],
     'living_room': [1],
     'area': [130],
