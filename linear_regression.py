@@ -30,11 +30,11 @@ numerical_features = ["room", "living_room", "area", "age", "floor"]
 
 full_pipeline = ColumnTransformer([
     ("num", StandardScaler(), numerical_features),
-    ("cat", OneHotEncoder(), categorical_features)
+    ("cat", OneHotEncoder(handle_unknown="ignore"), categorical_features)
 ])
 
 model = Pipeline([
-    ("preprocessing", full_pipeline),
+    ("preparation", full_pipeline),
     ("model", LinearRegression())
 ])
 
@@ -44,3 +44,37 @@ X = df.drop("price", axis=1)
 y = df["price"]
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state = 42)
+
+
+# Fit train sets and create scores
+model.fit(X_train, y_train)
+y_pred = model.predict(X_test)
+mse = mean_squared_error(y_pred, y_test)
+rmse = np.sqrt(mse)
+r2 = r2_score(y_pred, y_test)
+
+print(f"MSE: {mse}")
+print(f"RMSE: {rmse}")
+print(f"R^2: {r2}")
+
+
+#Check importance of features
+feature_importances = model.named_steps['model'].coef_
+print(len(feature_importances))
+print(feature_importances)
+
+
+# Loop through numerical features to display their coefficients
+print("Numerical Features")
+for i in range(len(numerical_features)):
+    print(numerical_features[i], feature_importances[i])
+    
+    
+# Loop through categorical features and display their coefficients    
+print("Categorical Features")
+for i in range(len(categorical_features)):
+    for j in range(len(model.named_steps['preparation'].transformers_[1][1].categories_[i])):
+        print(model.named_steps['preparation'].transformers_[1][1].categories_[i][j], feature_importances[len(numerical_features) + j])
+        
+        
+        
