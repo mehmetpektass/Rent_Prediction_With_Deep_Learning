@@ -27,6 +27,7 @@ df.info()
 df["city"] = df["list-view-location"].str.split("/").str[0]
 df["district"] = df["list-view-location"].str.split("/").str[1]
 df["neighborhood"] = df["list-view-location"].str.split("/").str[2]
+df["neighborhood"] = df["neighborhood"].str.split(" ").str[:-1]
 
 
 df.info()  

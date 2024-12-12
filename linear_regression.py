@@ -77,4 +77,13 @@ for i in range(len(categorical_features)):
         print(model.named_steps['preparation'].transformers_[1][1].categories_[i][j], feature_importances[len(numerical_features) + j])
         
         
-        
+new_data = pd.DataFrame({
+    'district': ['Beşiktaş'],
+    'neighborhood': ['Balmumcu Mah.'],
+    'room': [4],
+    'living_room': [1],
+    'area': [130],
+    'age': [15],
+    'floor': [1]
+}) 
+print(model.predict(new_data))
