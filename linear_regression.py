@@ -24,6 +24,7 @@ df['price'] = df['price'].astype('int')
 df.info()
 
 
+# Create pipeline and model
 categorical_features = ["district", "neighborhood"]
 numerical_features = ["room", "living_room", "area", "age", "floor"]
 
@@ -31,3 +32,15 @@ full_pipeline = ColumnTransformer([
     ("num", StandardScaler(), numerical_features),
     ("cat", OneHotEncoder(), categorical_features)
 ])
+
+model = Pipeline([
+    ("preprocessing", full_pipeline),
+    ("model", LinearRegression())
+])
+
+
+# Split test and train sets
+X = df.drop("price", axis=1)
+y = df["price"]
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.2, random_state = 42)
