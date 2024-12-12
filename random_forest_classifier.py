@@ -36,7 +36,7 @@ model = Pipeline([
 ])
 
 
-# Split test and train sets
+# Split test-train tests and created bins and labels
 X = df.drop("price", axis=1)
 y = df["price"]
 
@@ -44,8 +44,13 @@ bins = [x for x in range(0, 300000, 10000)]
 labels = [x for x in range(1, 30)]
 print(bins, labels)
 
-
 y = pd.cut(y, bins = bins, labels = labels)
 
+
+# Fit the set
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 model.fit(X_train, y_train)
+
+y_pred = model.predict(X_test)
+print(confusion_matrix(y_pred, y_test))
+

@@ -26,6 +26,8 @@ for column in columns:
     IQR = Q3 - Q1
     min_value = Q1 - 1.5*IQR
     max_value = Q3 + 1.5*IQR
+    if column == "price":
+        max_value = 100000
     min_values.append(min_value)
     max_values.append(max_value)
     print(f"Column: {column}, min: {min_value}, max: {max_value}")
