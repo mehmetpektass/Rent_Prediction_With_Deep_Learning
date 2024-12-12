@@ -27,10 +27,8 @@ district,neighborhood,room,living_room,area,age,floor,price
  Küçükçekmece ,"['', 'Atakent']",2,1,75,16,1,21000
  Başakşehir ,"['', 'Bahçeşehir', '2.', 'Kısım']",3,1,170,16,1,40000
  Kağıthane ,"['', 'Yahya', 'Kemal']",1,1,65,3,0,18000
- Beylikdüzü ,"['', 'Adnan', 'Kahveci']",4,1,190,5,2,40000
  Kağıthane ,"['', 'Gültepe']",2,1,85,26,2,17000
  Kağıthane ,"['', 'Emniyet', 'Evleri']",2,1,110,24,2,24000
- Beykoz ,"['', 'Çiftlik']",4,1,225,0,2,100000
  Bakırköy ,"['', 'Kartaltepe']",2,1,70,3,0,36000
  Beylikdüzü ,"['', 'Büyükşehir']",3,1,110,25,3,27500
  Silivri ,"['', 'Selimpaşa']",3,1,105,25,2,19000
@@ -108,7 +106,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Fatih ,"['', 'Haseki', 'Sultan']",3,1,130,30,1,30000
  Pendik ,"['', 'Batı']",3,1,130,31,0,25000
  Beşiktaş ,"['', 'Levazım']",3,1,125,35,1,60000
- Üsküdar ,"['', 'Acıbadem']",4,1,185,0,4,73500
  Fatih ,"['', 'Şehremini']",3,1,120,38,3,26000
  Üsküdar ,"['', 'İcadiye']",3,1,130,26,1,35000
  Bahçelievler ,"['', 'Bahçelievler']",3,1,130,1,3,50000
@@ -126,7 +123,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Sarıyer ,"['', 'Huzur']",2,1,95,1,2,42000
  Sarıyer ,"['', 'Maslak']",3,1,165,2,6,90000
  Kağıthane ,"['', 'Çeliktepe']",3,1,165,16,5,45000
- Beylikdüzü ,"['', 'Adnan', 'Kahveci']",3,1,183,22,6,23000
  Şişli ,"['', 'Merkez']",3,1,160,45,0,45000
  Maltepe ,"['', 'Fındıklı']",3,1,125,14,3,24500
  Esenyurt ,"['', 'Osmangazi']",1,1,86,0,1,23000
@@ -170,7 +166,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Fatih ,"['', 'Şehremini']",2,1,85,38,1,22000
  Sarıyer ,"['', 'Huzur']",3,1,170,10,7,75000
  Ümraniye ,"['', 'Finanskent']",2,1,102,2,3,43000
- Sarıyer ,"['', 'Uskumruköy']",3,1,218,11,2,95000
  Kağıthane ,"['', 'Seyrantepe']",2,1,100,0,2,41000
  Bayrampaşa ,"['', 'Terazidere']",2,1,90,30,2,23000
  Çekmeköy ,"['', 'Mimar', 'Sinan']",1,1,70,0,0,17000
@@ -218,8 +213,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Bahçelievler ,"['', 'Bahçelievler']",3,1,120,6,2,55000
  Tuzla ,"['', 'Postane']",3,1,100,0,2,32000
  Sarıyer ,"['', 'Maden']",3,1,108,16,0,32000
- Bakırköy ,"['', 'Şenlikköy']",4,1,220,30,3,95000
- Beşiktaş ,"['', 'Nisbetiye']",4,1,220,35,7,80000
  Beşiktaş ,"['', 'Gayrettepe']",2,1,160,30,2,57000
  Ataşehir ,"['', 'Küçükbakkalköy']",3,1,90,8,4,46000
  Beşiktaş ,"['', 'Bebek']",2,1,100,40,3,45000
@@ -273,7 +266,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Esenler ,"['', 'Fevzi', 'Çakmak']",2,1,95,25,0,13000
  Bakırköy ,"['', 'Zuhuratbaba']",3,1,110,31,4,27000
  Üsküdar ,"['', 'Murat', 'Reis']",2,1,115,42,1,25000
- Sarıyer ,"['', 'Poligon']",4,1,190,20,5,65000
  Şişli ,"['', 'Mecidiyeköy']",2,1,85,7,0,21000
  Fatih ,"['', 'Seyyid', 'Ömer']",2,1,75,40,3,16500
  Kağıthane ,"['', 'Sultan', 'Selim']",2,1,107,5,3,55000
@@ -371,7 +363,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Şişli ,"['', 'Paşa']",2,1,60,31,4,20000
  Maltepe ,"['', 'Fındıklı']",1,1,65,6,0,15750
  Kağıthane ,"['', 'Sultan', 'Selim']",2,1,120,29,3,19999
- Bakırköy ,"['', 'Şenlikköy']",4,1,220,20,3,77000
  Bağcılar ,"['', 'Yavuz', 'Selim']",3,1,110,35,4,17000
  Kağıthane ,"['', 'Yahya', 'Kemal']",2,1,90,0,6,25000
  Üsküdar ,"['', 'Zeynep', 'Kamil']",1,1,75,33,1,18500
@@ -465,22 +456,17 @@ district,neighborhood,room,living_room,area,age,floor,price
  Kartal ,"['', 'Soğanlık', 'Yeni']",1,1,74,15,3,26000
  Kağıthane ,"['', 'Gürsel']",3,1,140,21,2,24500
  Maltepe ,"['', 'İdealtepe']",1,1,60,0,0,28750
- Kağıthane ,"['', 'Hamidiye']",4,1,220,4,5,99000
  Kadıköy ,"['', 'Erenköy']",2,1,90,0,7,80000
  Beşiktaş ,"['', 'Gayrettepe']",2,1,85,25,1,35000
- Kartal ,"['', 'Kordonboyu']",3,1,190,25,1,40000
  Maltepe ,"['', 'Altıntepe']",3,1,120,10,0,31000
  Çekmeköy ,"['', 'Çatalmeşe']",2,1,99,2,4,24500
  Sancaktepe ,"['', 'Fatih']",2,1,92,10,1,15000
- Bakırköy ,"['', 'Ataköy', '7-8-9-10.', 'Kısım']",2,1,192,4,8,75000
  Tuzla ,"['', 'İstasyon']",3,1,120,8,1,28000
  Sultangazi ,"['', 'Yunus', 'Emre']",2,1,85,21,2,15500
  Bağcılar ,"['', 'Demirkapı']",3,1,130,1,3,31000
  Maltepe ,"['', 'Cevizli']",3,1,120,35,7,27000
- Eyüpsultan ,"['', 'Mimar', 'Sinan']",3,1,222,0,0,100000
  Esenyurt ,"['', 'Balıkyolu']",1,1,70,0,0,10000
  Sarıyer ,"['', 'Kireçburnu']",2,1,90,25,2,30000
- Beyoğlu ,"['', 'Cihangir']",3,1,200,60,4,95000
  Sultanbeyli ,"['', 'Mimar', 'Sinan']",3,1,128,4,5,24500
  Çekmeköy ,"['', 'Ömerli']",2,1,141,2,0,96000
  Ümraniye ,"['', 'Çamlık']",3,1,140,14,7,29000
@@ -510,7 +496,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Sancaktepe ,"['', 'Yunus', 'Emre']",2,1,92,0,1,17500
  Kağıthane ,"['', 'Hamidiye']",1,1,100,4,8,49990
  Kartal ,"['', 'Soğanlık', 'Yeni']",3,1,157,15,4,46500
- Maltepe ,"['', 'Küçükyalı']",4,1,210,28,2,85000
  Küçükçekmece ,"['', 'Fatih']",2,1,95,0,5,25000
  Tuzla ,"['', 'İstasyon']",3,1,130,25,1,25000
  Beylikdüzü ,"['', 'Adnan', 'Kahveci']",3,1,140,0,0,30000
@@ -604,7 +589,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Beşiktaş ,"['', 'Abbasağa']",2,1,90,30,1,30000
  Üsküdar ,"['', 'Zeynep', 'Kamil']",2,1,85,30,1,27000
  Fatih ,"['', 'Seyyid', 'Ömer']",3,1,125,6,0,18000
- Üsküdar ,"['', 'Çengelköy']",4,1,200,24,2,75000
  Tuzla ,"['', 'Aydıntepe']",2,1,99,8,4,25000
  Şişli ,"['', 'Gülbahar']",2,1,95,30,5,26000
  Beşiktaş ,"['', 'Akat']",3,1,140,30,0,75000
@@ -652,7 +636,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Ümraniye ,"['', 'Elmalıkent']",3,1,130,11,3,45000
  Kadıköy ,"['', 'Merdivenköy']",3,1,135,28,3,37500
  Esenyurt ,"['', 'Çınar']",1,1,95,5,1,12000
- Tuzla ,"['', 'Tepeören']",4,1,188,0,0,80000
  Bahçelievler ,"['', 'Siyavuşpaşa']",3,1,120,30,3,25000
  Esenyurt ,"['', 'Koza']",3,1,60,13,3,20000
  Fatih ,"['', 'Cerrahpaşa']",2,1,80,45,3,17500
@@ -675,7 +658,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Gaziosmanpaşa ,"['', 'Karayolları']",3,1,134,14,3,65000
  Tuzla ,"['', 'Mimar', 'Sinan']",2,1,85,1,7,22000
  Üsküdar ,"['', 'Güzeltepe']",3,1,110,3,1,50000
- Avcılar ,"['', 'Denizköşkler']",3,1,200,27,0,25000
  Kağıthane ,"['', 'Sultan', 'Selim']",2,1,105,8,5,37500
  Fatih ,"['', 'Seyyid', 'Ömer']",1,1,60,31,1,15000
  Kadıköy ,"['', 'Erenköy']",2,1,85,14,3,57000
@@ -684,7 +666,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Üsküdar ,"['', 'Beylerbeyi']",3,1,140,42,1,70000
  Bahçelievler ,"['', 'Zafer']",2,1,85,16,4,25000
  Beylikdüzü ,"['', 'Yakuplu']",1,1,90,11,8,18000
- Maltepe ,"['', 'Feyzullah']",4,1,220,24,5,90000
  Kağıthane ,"['', 'Emniyet', 'Evleri']",2,1,100,23,3,32000
  Başakşehir ,"['', 'Bahçeşehir', '2.', 'Kısım']",3,1,150,11,7,39000
  Fatih ,"['', 'Silivrikapı']",2,1,95,31,0,12500
@@ -761,10 +742,8 @@ district,neighborhood,room,living_room,area,age,floor,price
  Bakırköy ,"['', 'Yeşilköy']",3,1,130,35,0,50000
  Beyoğlu ,"['', 'Halıcıoğlu']",2,1,95,0,-1,20000
  Beylikdüzü ,"['', 'Barış']",3,1,145,16,4,30000
- Üsküdar ,"['', 'Altunizade']",4,1,200,21,3,88000
  Kartal ,"['', 'Uğur', 'Mumcu']",3,1,110,26,2,20000
  Beşiktaş ,"['', 'Vişnezade']",2,1,100,49,5,42000
- Beşiktaş ,"['', 'Cihannüma']",4,1,195,26,2,50000
  Pendik ,"['', 'Yenişehir']",3,1,149,7,4,45000
  Beyoğlu ,"['', 'Sururi', 'Mehmet', 'Efendi']",2,1,95,28,5,28000
  Çekmeköy ,"['', 'Merkez']",2,1,160,11,0,83000
@@ -779,7 +758,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Kağıthane ,"['', 'Yeşilce']",1,1,70,8,-2,16000
  Beşiktaş ,"['', 'Levent']",3,1,120,29,8,85000
  Büyükçekmece ,"['', 'Atatürk']",3,1,130,26,1,12000
- Zeytinburnu ,"['', 'Seyitnizam']",4,1,197,10,7,70000
  Beşiktaş ,"['', 'Cihannüma']",1,1,65,31,5,23000
  Kadıköy ,"['', 'Caferağa']",2,1,75,45,0,38000
  Bahçelievler ,"['', 'Zafer']",3,1,140,22,3,25000
@@ -795,7 +773,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Küçükçekmece ,"['', 'Atakent']",2,1,72,5,6,25000
  Maltepe ,"['', 'İdealtepe']",3,1,130,35,4,26500
  Büyükçekmece ,"['', 'Atatürk']",3,1,150,14,1,25000
- Maltepe ,"['', 'Yalı']",2,1,220,30,1,95000
  Üsküdar ,"['', 'Ünalan']",3,1,113,31,6,40000
  Sarıyer ,"['', 'Ptt', 'Evleri']",2,1,90,20,2,27000
  Avcılar ,"['', 'Denizköşkler']",3,1,85,18,-1,8500
@@ -907,7 +884,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Esenyurt ,"['', 'Pınar']",2,1,110,5,3,12500
  Kağıthane ,"['', 'Merkez']",2,1,110,1,3,70000
  Bahçelievler ,"['', 'Soğanlı']",3,1,130,28,1,22000
- Bahçelievler ,"['', 'Bahçelievler']",4,1,185,28,6,48500
  Şile ,"['', 'Kumbaba']",3,1,180,10,2,36000
  Şişli ,"['', 'Halide', 'Edip', 'Adıvar']",3,1,130,22,-2,28000
  Bahçelievler ,"['', 'Yenibosna', 'Merkez']",3,1,125,26,3,21000
@@ -924,7 +900,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Çekmeköy ,"['', 'Kirazlıdere']",1,1,65,12,4,25000
  Esenyurt ,"['', 'Süleymaniye']",2,1,110,4,0,10000
  Kadıköy ,"['', 'Feneryolu']",3,1,150,15,1,57500
- Sarıyer ,"['', 'Maslak']",2,1,202,5,3,75000
  Pendik ,"['', 'Yayalar']",2,1,80,3,3,21000
  Üsküdar ,"['', 'Bahçelievler']",2,1,100,21,0,37000
  Küçükçekmece ,"['', 'Atakent']",3,1,152,12,5,35000
@@ -970,10 +945,8 @@ district,neighborhood,room,living_room,area,age,floor,price
  Ataşehir ,"['', 'İnönü']",3,1,125,8,3,40000
  Güngören ,"['', 'Abdurrahman', 'Nafiz', 'Gürman']",3,1,145,33,3,50000
  Maltepe ,"['', 'Zümrütevler']",1,1,60,7,0,15500
- Sarıyer ,"['', 'Zekeriyaköy']",4,1,200,26,3,63000
  Kağıthane ,"['', 'Merkez']",2,1,90,0,1,37000
  Fatih ,"['', 'İskenderpaşa']",2,1,95,45,3,22500
- Kağıthane ,"['', 'Seyrantepe']",3,1,185,3,5,90000
  Beylikdüzü ,"['', 'Adnan', 'Kahveci']",2,1,100,5,0,25000
  Büyükçekmece ,"['', 'Atatürk']",3,1,125,25,5,18000
  Bakırköy ,"['', 'Zuhuratbaba']",3,1,130,31,3,30000
@@ -1016,7 +989,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Üsküdar ,"['', 'Valide-i', 'Atik']",2,1,80,2,1,38000
  Ataşehir ,"['', 'Kayışdağı']",2,1,70,5,2,27000
  Şişli ,"['', 'Gülbahar']",2,1,120,28,4,55000
- Şile ,"['', 'Çavuş']",4,1,190,12,2,42000
  Esenyurt ,"['', 'Mehterçeşme']",2,1,95,18,0,10500
  Sancaktepe ,"['', 'Akpınar']",2,1,80,5,1,19000
  Avcılar ,"['', 'Denizköşkler']",3,1,150,25,2,21500
@@ -1048,7 +1020,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Şişli ,"['', 'Yayla']",2,1,100,10,5,50000
  Şile ,"['', 'Çavuş']",2,1,94,1,5,30000
  Kartal ,"['', 'Petroliş']",3,1,140,40,2,35000
- Beylikdüzü ,"['', 'Adnan', 'Kahveci']",3,1,185,3,3,25000
  Maltepe ,"['', 'Feyzullah']",2,1,145,28,6,50000
  Fatih ,"['', 'Mevlanakapı']",2,1,75,36,1,15000
  Kartal ,"['', 'Kordonboyu']",3,1,180,12,2,50000
@@ -1113,7 +1084,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Şişli ,"['', 'Ergenekon']",2,1,90,40,3,33000
  Zeytinburnu ,"['', 'Gökalp']",3,1,130,0,1,40000
  Sarıyer ,"['', 'Maslak']",2,1,160,5,5,65000
- Küçükçekmece ,"['', 'Atakent']",4,1,198,4,1,65000
  Esenyurt ,"['', 'Akevler']",2,1,90,6,3,19000
  Şişli ,"['', 'Cumhuriyet']",3,1,116,48,1,42000
  Bahçelievler ,"['', 'Bahçelievler']",2,1,120,0,3,55000
@@ -1156,9 +1126,7 @@ district,neighborhood,room,living_room,area,age,floor,price
  Bahçelievler ,"['', 'Cumhuriyet']",2,1,105,28,4,18000
  Üsküdar ,"['', 'Bahçelievler']",3,1,127,20,4,26000
  Kadıköy ,"['', 'Caferağa']",2,1,80,30,1,32000
- Küçükçekmece ,"['', 'Atakent']",4,1,182,13,4,65000
  Beşiktaş ,"['', 'Levent']",3,1,150,16,4,85000
- Kağıthane ,"['', 'Hürriyet']",3,1,220,5,8,55000
  Küçükçekmece ,"['', 'Atakent']",1,1,70,23,3,23000
  Kadıköy ,"['', 'Göztepe']",2,1,70,0,3,55000
  Bahçelievler ,"['', 'Siyavuşpaşa']",3,1,140,28,1,35000
@@ -1168,7 +1136,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Pendik ,"['', 'Güllü', 'Bağlar']",1,1,70,3,3,20500
  Ataşehir ,"['', 'İnönü']",2,1,90,22,2,22000
  Maltepe ,"['', 'Aydınevler']",2,1,90,8,1,27000
- Bakırköy ,"['', 'Osmaniye']",4,1,195,10,1,90000
  Şişli ,"['', 'Esentepe']",2,1,100,39,4,36000
  Ataşehir ,"['', 'Küçükbakkalköy']",1,1,65,10,3,33500
  Sancaktepe ,"['', 'Fatih']",2,1,87,10,2,18000
@@ -1178,7 +1145,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Ataşehir ,"['', 'Örnek']",3,1,160,28,1,40000
  Sarıyer ,"['', 'Tarabya']",3,1,140,26,0,35000
  Kağıthane ,"['', 'Emniyet', 'Evleri']",1,1,78,3,4,49000
- Başakşehir ,"['', 'Bahçeşehir', '2.', 'Kısım']",3,1,200,4,6,33000
  Beşiktaş ,"['', 'Gayrettepe']",2,1,80,40,-1,30000
  Fatih ,"['', 'Şehremini']",1,1,70,34,1,21000
  Kadıköy ,"['', 'Fenerbahçe']",3,1,140,30,0,48000
@@ -1187,7 +1153,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Başakşehir ,"['', 'Kayabaşı']",2,1,85,11,4,21000
  Eyüpsultan ,"['', 'Mimar', 'Sinan']",2,1,128,1,0,80000
  Sultanbeyli ,"['', 'Orhangazi']",2,1,100,1,2,25500
- Kartal ,"['', 'Orhantepe']",3,1,200,26,2,37500
  Bahçelievler ,"['', 'Bahçelievler']",3,1,150,31,4,35000
  Avcılar ,"['', 'Gümüşpala']",2,1,90,0,3,25000
  Bahçelievler ,"['', 'Bahçelievler']",1,1,65,3,1,31000
@@ -1215,7 +1180,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Sarıyer ,"['', 'Maden']",2,1,95,21,0,25000
  Esenyurt ,"['', 'Üçevler']",1,1,80,6,4,14000
  Başakşehir ,"['', 'Kayabaşı']",3,1,135,5,3,36000
- Şişli ,"['', 'Yayla']",3,1,186,13,6,80000
  Başakşehir ,"['', 'Bahçeşehir', '1.', 'Kısım']",2,1,95,4,2,25000
  Sarıyer ,"['', 'Bahçeköy', 'Yeni']",4,1,170,30,4,40000
  Kartal ,"['', 'Orhantepe']",3,1,160,25,5,35000
@@ -1298,7 +1262,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Sancaktepe ,"['', 'Safa']",4,1,125,10,1,17500
  Sarıyer ,"['', 'Yeniköy']",3,1,100,40,2,37000
  Ataşehir ,"['', 'Fetih']",2,1,75,27,1,15000
- Beylikdüzü ,"['', 'Barış']",3,1,200,4,1,43000
  Kağıthane ,"['', 'Sultan', 'Selim']",1,1,75,20,4,13000
  Esenyurt ,"['', 'Zafer']",2,1,88,4,1,19000
  Çekmeköy ,"['', 'Cumhuriyet']",2,1,80,3,1,21000
@@ -1560,7 +1523,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Beyoğlu ,"['', 'Şahkulu']",3,1,130,40,4,75000
  Güngören ,"['', 'Sanayi']",2,1,90,31,2,15000
  Zeytinburnu ,"['', 'Gökalp']",2,1,85,26,4,25000
- Sultangazi ,"['', 'Cumhuriyet']",3,1,187,5,3,38000
  Sarıyer ,"['', 'Ayazağa']",3,1,140,30,3,33500
  Küçükçekmece ,"['', 'İnönü']",1,1,55,2,8,27000
  Üsküdar ,"['', 'Valide-i', 'Atik']",2,1,115,25,3,25000
@@ -1737,15 +1699,12 @@ district,neighborhood,room,living_room,area,age,floor,price
  Esenler ,"['', 'Tuna']",3,1,100,15,3,15000
  Fatih ,"['', 'Şehremini']",2,1,85,38,1,20000
  Esenyurt ,"['', 'Barbaros', 'Hayrettin', 'Paşa']",3,1,145,21,0,20000
- Kağıthane ,"['', 'Hürriyet']",3,1,220,8,8,55000
  Kağıthane ,"['', 'Sultan', 'Selim']",2,1,85,25,2,25000
  Sarıyer ,"['', 'Huzur']",1,1,95,2,3,50000
  Üsküdar ,"['', 'Murat', 'Reis']",1,1,50,0,0,30000
  Şişli ,"['', 'Merkez']",1,1,75,40,0,25000
  Kartal ,"['', 'Cevizli']",2,1,95,1,1,29250
  Maltepe ,"['', 'Çınar']",2,1,85,0,2,40000
- Beşiktaş ,"['', 'Abbasağa']",4,1,215,2,5,85000
- Sancaktepe ,"['', 'Abdurrahmangazi']",3,1,185,2,4,35000
  Eyüpsultan ,"['', 'Karadolap']",2,1,90,5,3,30000
  Şişli ,"['', 'Gülbahar']",3,1,130,31,2,25000
  Kağıthane ,"['', 'Ortabayır']",3,1,130,25,2,30000
@@ -1760,7 +1719,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Beylikdüzü ,"['', 'Büyükşehir']",1,1,60,25,3,15000
  Beylikdüzü ,"['', 'Yakuplu']",1,1,100,12,0,15000
  Maltepe ,"['', 'Altayçeşme']",3,1,130,22,3,38000
- Beykoz ,"['', 'Kavacık']",3,1,220,11,0,6500
  Kartal ,"['', 'Hürriyet']",2,1,65,4,1,9500
  Küçükçekmece ,"['', 'Gültepe']",2,1,80,3,3,22500
  Beyoğlu ,"['', 'Ömer', 'Avni']",1,1,90,35,2,35000
@@ -1834,7 +1792,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Ataşehir ,"['', 'Esatpaşa']",2,1,85,7,2,25000
  Maltepe ,"['', 'Feyzullah']",1,1,50,4,0,20000
  Şişli ,"['', 'Mecidiyeköy']",1,1,50,4,2,25000
- Sarıyer ,"['', 'Zekeriyaköy']",4,1,190,40,2,65000
  Maltepe ,"['', 'Başıbüyük']",2,1,110,25,3,26000
  Şişli ,"['', 'Mecidiyeköy']",2,1,85,13,3,30000
  Pendik ,"['', 'Bahçelievler']",3,1,150,28,2,20000
@@ -1911,10 +1868,8 @@ district,neighborhood,room,living_room,area,age,floor,price
  Kadıköy ,"['', 'Acıbadem']",2,1,80,31,0,30000
  Beyoğlu ,"['', 'Örnektepe']",2,1,100,0,1,30000
  Silivri ,"['', 'Cumhuriyet']",3,1,120,31,2,25000
- Ümraniye ,"['', 'Yamanevler']",3,1,200,3,0,80000
  Küçükçekmece ,"['', 'Cennet']",3,1,110,6,4,38000
  Beylikdüzü ,"['', 'Yakuplu']",1,1,63,11,0,12500
- Büyükçekmece ,"['', '19', 'Mayıs']",4,1,210,25,2,35000
  Esenyurt ,"['', 'Atatürk']",2,1,100,7,0,9000
  Avcılar ,"['', 'Merkez']",3,1,100,0,6,32000
  Kadıköy ,"['', 'Kozyatağı']",4,1,170,0,4,80000
@@ -1948,14 +1903,12 @@ district,neighborhood,room,living_room,area,age,floor,price
  Sarıyer ,"['', 'Ferahevler']",2,1,115,26,5,38000
  Kadıköy ,"['', 'Suadiye']",3,1,150,40,1,20000
  Tuzla ,"['', 'Evliya', 'Çelebi']",3,1,129,5,3,35000
- Başakşehir ,"['', 'Kayabaşı']",3,1,198,11,2,38500
  Çekmeköy ,"['', 'Hamidiye']",2,1,90,5,3,17000
  Fatih ,"['', 'Mevlanakapı']",2,1,80,35,2,19500
  Küçükçekmece ,"['', 'Atakent']",2,1,85,26,4,21000
  Sarıyer ,"['', 'Cumhuriyet']",3,1,135,27,3,37500
  Beyoğlu ,"['', 'Çatma', 'Mescit']",2,1,120,60,1,35000
  Kağıthane ,"['', 'Seyrantepe']",2,1,90,8,-2,18000
- Şişli ,"['', 'Ergenekon']",3,1,190,30,1,60000
  Küçükçekmece ,"['', 'Cumhuriyet']",3,1,110,10,0,15000
  Fatih ,"['', 'Haseki', 'Sultan']",2,1,130,31,3,25000
  Bahçelievler ,"['', 'Siyavuşpaşa']",3,1,120,40,4,30000
@@ -2043,14 +1996,11 @@ district,neighborhood,room,living_room,area,age,floor,price
  Bahçelievler ,"['', 'Şirinevler']",4,1,130,30,3,25000
  Eyüpsultan ,"['', 'İslambey']",2,1,95,30,1,20000
  Bahçelievler ,"['', 'Bahçelievler']",2,1,90,4,4,45000
- Bahçelievler ,"['', 'Yenibosna', 'Merkez']",4,1,190,11,3,65000
  Küçükçekmece ,"['', 'Atakent']",3,1,132,5,5,38000
  Sarıyer ,"['', 'Ayazağa']",1,1,86,5,5,60000
- Üsküdar ,"['', 'Barbaros']",4,1,220,0,3,78000
  Beyoğlu ,"['', 'Sururi', 'Mehmet', 'Efendi']",2,1,95,35,2,25000
  Şişli ,"['', 'Fulya']",3,1,140,35,5,31000
  Kadıköy ,"['', 'Bostancı']",3,1,120,1,7,75000
- Kadıköy ,"['', 'Feneryolu']",4,1,220,26,3,65000
  Kartal ,"['', 'Uğur', 'Mumcu']",3,1,130,30,5,23000
  Eyüpsultan ,"['', 'Emniyettepe']",2,1,90,11,5,35000
  Bakırköy ,"['', 'Ataköy', '2-5-6.', 'Kısım']",3,1,127,31,7,42500
@@ -2090,8 +2040,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Gaziosmanpaşa ,"['', 'Mevlana']",2,1,90,16,4,17000
  Üsküdar ,"['', 'Cumhuriyet']",2,1,140,15,3,25000
  Kartal ,"['', 'Kordonboyu']",2,1,125,3,5,70000
- Şişli ,"['', 'Gülbahar']",4,1,205,25,5,30000
- Maltepe ,"['', 'İdealtepe']",4,1,200,0,5,78000
  Pendik ,"['', 'Fatih']",2,1,80,5,6,25000
  Maltepe ,"['', 'Altıntepe']",2,1,100,18,2,37500
  Kartal ,"['', 'Gümüşpınar']",2,1,112,1,6,26000
@@ -2110,7 +2058,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Esenyurt ,"['', 'Akevler']",3,1,150,12,0,21250
  Beyoğlu ,"['', 'Kılıçali', 'Paşa']",2,1,130,50,5,80000
  Kadıköy ,"['', 'Bostancı']",2,1,135,35,-1,55000
- Ümraniye ,"['', 'Yamanevler']",4,1,215,4,2,90000
  Bağcılar ,"['', 'Merkez']",3,1,145,26,1,25000
  Pendik ,"['', 'Kavakpınar']",2,1,92,3,4,28000
  Sultanbeyli ,"['', 'Battalgazi']",3,1,120,0,2,23000
@@ -2123,7 +2070,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Küçükçekmece ,"['', 'Cennet']",1,1,60,25,0,15250
  Üsküdar ,"['', 'Bulgurlu']",3,1,110,30,1,29000
  Kartal ,"['', 'Atalar']",2,1,84,4,4,31500
- Ümraniye ,"['', 'Elmalıkent']",3,1,200,0,3,65000
  Başakşehir ,"['', 'Bahçeşehir', '1.', 'Kısım']",2,1,130,15,5,30000
  Beşiktaş ,"['', 'Dikilitaş']",2,1,110,27,3,35000
  Pendik ,"['', 'Kavakpınar']",2,1,80,0,1,19000
@@ -2138,7 +2084,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Beşiktaş ,"['', 'Abbasağa']",2,1,70,30,1,26000
  Fatih ,"['', 'Koca', 'Mustafapaşa']",1,1,75,45,1,17500
  Ümraniye ,"['', 'Madenler']",3,1,155,16,7,45000
- Beşiktaş ,"['', 'Ulus']",3,1,200,21,5,85000
  Sultanbeyli ,"['', 'Battalgazi']",2,1,110,4,4,18500
  Üsküdar ,"['', 'Mimar', 'Sinan']",3,1,100,31,2,35000
  Kağıthane ,"['', 'Ortabayır']",2,1,85,35,3,20000
@@ -2170,7 +2115,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Sarıyer ,"['', 'Huzur']",3,1,110,24,4,42000
  Beyoğlu ,"['', 'Çatma', 'Mescit']",2,1,90,10,2,30000
  Fatih ,"['', 'Akşemsettin']",2,1,75,11,4,24000
- Büyükçekmece ,"['', 'Pınartepe']",3,1,190,5,0,45000
  Sancaktepe ,"['', 'Osmangazi']",2,1,85,1,3,19000
  Üsküdar ,"['', 'Mimar', 'Sinan']",1,1,70,35,3,32500
  Şişli ,"['', 'Fulya']",2,1,90,35,4,40000
@@ -2284,7 +2228,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Tuzla ,"['', 'Şifa']",2,1,100,0,2,20000
  Maltepe ,"['', 'Bağlarbaşı']",1,1,70,0,4,28000
  Bakırköy ,"['', 'Yeşilköy']",3,1,140,3,2,90000
- Ataşehir ,"['', 'Barbaros']",3,1,186,11,3,85000
  Sarıyer ,"['', 'Ayazağa']",1,1,72,5,0,34000
  Çekmeköy ,"['', 'Merkez']",3,1,150,3,1,35500
  Maltepe ,"['', 'Fındıklı']",2,1,80,15,2,36000
@@ -2299,7 +2242,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Fatih ,"['', 'Seyyid', 'Ömer']",1,1,75,40,0,15000
  Beyoğlu ,"['', 'Cihangir']",2,1,85,30,1,40000
  Sancaktepe ,"['', 'Meclis']",3,1,120,16,1,22500
- Eyüpsultan ,"['', 'Göktürk', 'Merkez']",2,1,200,15,3,90000
  Esenyurt ,"['', 'Koza']",4,1,170,8,2,20000
  Ataşehir ,"['', 'Fetih']",2,1,95,24,1,31500
  Güngören ,"['', 'Güven']",3,1,122,30,4,21000
@@ -2310,8 +2252,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Beşiktaş ,"['', 'Dikilitaş']",3,1,165,0,6,70000
  Maltepe ,"['', 'Aydınevler']",2,1,70,13,0,25000
  Sultangazi ,"['', 'Eski', 'Habipler']",2,1,74,0,3,20000
- Bakırköy ,"['', 'Şenlikköy']",4,1,200,25,3,75000
- Beylikdüzü ,"['', 'Adnan', 'Kahveci']",3,1,195,16,3,30000
  Çekmeköy ,"['', 'Merkez']",2,1,147,11,2,68000
  Şişli ,"['', 'İnönü']",2,1,80,10,4,35000
  Kağıthane ,"['', 'Ortabayır']",2,1,85,8,2,33500
@@ -2358,7 +2298,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Silivri ,"['', 'Cumhuriyet']",2,1,90,26,4,19000
  Küçükçekmece ,"['', 'Kanarya']",2,1,60,20,1,8000
  Kadıköy ,"['', 'Kozyatağı']",2,1,85,26,6,30000
- Bahçelievler ,"['', 'Yenibosna', 'Merkez']",4,1,190,11,3,65000
  Bahçelievler ,"['', 'Soğanlı']",3,1,125,17,5,22500
  Kadıköy ,"['', 'Eğitim']",3,1,130,40,5,25000
  Esenyurt ,"['', 'Barbaros', 'Hayrettin', 'Paşa']",1,1,100,4,3,24000
@@ -2457,7 +2396,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Esenyurt ,"['', 'Güzelyurt']",1,1,71,5,6,20000
  Zeytinburnu ,"['', 'Merkezefendi']",3,1,140,5,6,85000
  Avcılar ,"['', 'Ambarlı']",2,1,90,10,0,13000
- Bahçelievler ,"['', 'Bahçelievler']",3,1,190,0,7,85000
  Pendik ,"['', 'Esenyalı']",2,1,110,4,7,23000
  Pendik ,"['', 'Çamlık']",2,1,80,5,0,31000
  Bahçelievler ,"['', 'Bahçelievler']",3,1,170,0,1,70000
@@ -2492,7 +2430,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Kartal ,"['', 'Hürriyet']",2,1,105,5,3,22000
  Ümraniye ,"['', 'Atatürk']",3,1,130,11,2,27000
  Kağıthane ,"['', 'Gültepe']",2,1,90,11,-1,20000
- Eyüpsultan ,"['', 'Göktürk', 'Merkez']",2,1,200,12,3,90000
  Kartal ,"['', 'Karlıktepe']",3,1,110,12,3,28000
  Ataşehir ,"['', 'İçerenköy']",2,1,90,10,1,27000
  Üsküdar ,"['', 'Ünalan']",2,1,90,35,5,10000
@@ -2586,7 +2523,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Kartal ,"['', 'Hürriyet']",3,1,125,20,1,25000
  Maltepe ,"['', 'Başıbüyük']",3,1,110,28,1,15000
  Sarıyer ,"['', 'Huzur']",2,1,87,0,2,41000
- Sarıyer ,"['', 'Maslak']",3,1,185,2,3,90000
  Sarıyer ,"['', 'Tarabya']",2,1,120,25,1,25000
  Şişli ,"['', '19', 'Mayıs']",3,1,135,30,6,40000
  Sarıyer ,"['', 'Kireçburnu']",2,1,75,25,0,22000
@@ -2619,7 +2555,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Şişli ,"['', 'Feriköy']",1,1,85,5,0,26500
  Bahçelievler ,"['', 'Yenibosna', 'Merkez']",3,1,156,11,0,70000
  Bakırköy ,"['', 'Zuhuratbaba']",3,1,120,6,3,70000
- Bakırköy ,"['', 'Basınköy']",4,1,220,17,1,90000
  Kağıthane ,"['', 'Çağlayan']",3,1,130,3,1,35000
  Beşiktaş ,"['', 'Yıldız']",2,1,90,40,4,40000
  Küçükçekmece ,"['', 'Gültepe']",3,1,150,5,2,32000
@@ -2645,7 +2580,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Kadıköy ,"['', 'Bostancı']",3,1,130,0,1,59000
  Şişli ,"['', 'Merkez']",3,1,135,4,8,55000
  Üsküdar ,"['', 'Mimar', 'Sinan']",2,1,100,3,-2,32500
- Eyüpsultan ,"['', 'Güzeltepe']",3,1,192,5,2,73000
  Avcılar ,"['', 'Ambarlı']",2,1,100,30,4,13000
  Beylikdüzü ,"['', 'Yakuplu']",3,1,150,1,4,22000
  Sancaktepe ,"['', 'Fatih']",3,1,120,7,2,24000
@@ -2655,7 +2589,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Büyükçekmece ,"['', 'Çakmaklı']",3,1,135,0,3,45000
  Ataşehir ,"['', 'Yenişehir']",3,1,164,25,7,35000
  Tuzla ,"['', 'Şifa']",2,1,100,4,2,29000
- Maltepe ,"['', 'İdealtepe']",4,1,210,0,4,80000
  Arnavutköy ,"['', 'Hadımköy']",2,1,75,10,8,14000
  Şişli ,"['', 'İnönü']",2,1,100,30,5,30000
  Ümraniye ,"['', 'Esenkent']",2,1,110,5,7,25000
@@ -2679,8 +2612,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Fatih ,"['', 'Şehremini']",1,1,55,35,2,12000
  Üsküdar ,"['', 'Acıbadem']",3,1,175,5,3,65000
  Ümraniye ,"['', 'Huzur']",2,1,75,14,4,22000
- Bakırköy ,"['', 'Şenlikköy']",3,1,195,29,0,47000
- Güngören ,"['', 'Gençosman']",2,1,5,35,3,18000
  Beylikdüzü ,"['', 'Kavaklı']",3,1,130,16,6,35000
  Tuzla ,"['', 'Yayla']",2,1,105,22,5,16500
  Ataşehir ,"['', 'İçerenköy']",1,1,65,40,2,18500
@@ -2689,7 +2620,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Esenyurt ,"['', 'Balıkyolu']",2,1,110,6,0,9000
  Esenyurt ,"['', 'Mevlana']",3,1,145,20,6,36500
  Avcılar ,"['', 'Denizköşkler']",2,1,85,12,0,16500
- Büyükçekmece ,"['', 'Pınartepe']",4,1,200,3,4,42000
  Esenyurt ,"['', 'Yeşilkent']",3,1,110,7,0,10000
  Bahçelievler ,"['', 'Cumhuriyet']",3,1,110,26,4,19000
  Fatih ,"['', 'Seyyid', 'Ömer']",3,1,130,40,1,24000
@@ -2785,7 +2715,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Fatih ,"['', 'Cerrahpaşa']",2,1,85,41,3,19000
  Sarıyer ,"['', 'Ayazağa']",1,1,100,6,3,35500
  Kağıthane ,"['', 'Şirintepe']",2,1,81,3,7,30000
- Beykoz ,"['', 'Bozhane']",2,1,210,8,2,20000
  Bahçelievler ,"['', 'Yenibosna', 'Merkez']",2,1,140,3,2,42000
  Tuzla ,"['', 'Yayla']",3,1,90,10,3,21000
  Ümraniye ,"['', 'Yukarı', 'Dudullu']",1,1,75,2,5,28000
@@ -2831,7 +2760,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Beşiktaş ,"['', 'Arnavutköy']",3,1,140,50,0,100000
  Kartal ,"['', 'Petroliş']",2,1,100,40,2,20000
  Küçükçekmece ,"['', 'Tevfik', 'Bey']",2,1,85,0,1,20000
- Küçükçekmece ,"['', 'Atakent']",4,1,198,5,2,65000
  Avcılar ,"['', 'Cihangir']",3,1,130,25,0,18000
  Bayrampaşa ,"['', 'Kartaltepe']",1,1,75,35,1,15000
  Şişli ,"['', 'Eskişehir']",2,1,80,25,2,18000
@@ -2873,7 +2801,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Şişli ,"['', 'Fulya']",2,1,80,5,4,35500
  Şişli ,"['', 'Cumhuriyet']",3,1,115,25,0,50000
  Şişli ,"['', 'Harbiye']",4,1,130,25,4,55000
- Kağıthane ,"['', 'Hamidiye']",2,1,185,0,8,58000
  Üsküdar ,"['', 'Aziz', 'Mahmut', 'Hüdayi']",2,1,75,0,-1,28000
  Üsküdar ,"['', 'Küçüksu']",3,1,120,30,0,21000
  Bayrampaşa ,"['', 'Muratpaşa']",1,1,65,35,0,13000
@@ -2935,7 +2862,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Sarıyer ,"['', 'Ayazağa']",1,1,64,5,5,34000
  Avcılar ,"['', 'Denizköşkler']",3,1,130,20,5,20000
  Kağıthane ,"['', 'Seyrantepe']",3,1,135,4,4,95000
- Üsküdar ,"['', 'Barbaros']",4,1,220,0,3,80000
  Esenyurt ,"['', 'Piri', 'Reis']",2,1,135,8,3,25000
  Sancaktepe ,"['', 'Fatih']",3,1,115,15,2,20000
  Sarıyer ,"['', 'Kireçburnu']",3,1,140,25,1,40000
@@ -2943,12 +2869,10 @@ district,neighborhood,room,living_room,area,age,floor,price
  Ümraniye ,"['', 'Atatürk']",1,1,75,22,4,18500
  Güngören ,"['', 'Güneştepe']",2,1,95,35,3,18500
  Kadıköy ,"['', 'Bostancı']",3,1,135,26,6,34100
- Sarıyer ,"['', 'Uskumruköy']",3,1,220,5,2,85000
  Beyoğlu ,"['', 'Sururi', 'Mehmet', 'Efendi']",1,1,60,6,1,27000
  Ataşehir ,"['', 'İnönü']",1,1,59,8,-1,21500
  Maltepe ,"['', 'Zümrütevler']",3,1,130,30,2,19000
  Sarıyer ,"['', 'Tarabya']",2,1,100,26,-1,55000
- Kadıköy ,"['', 'Suadiye']",4,1,220,33,5,92000
  Tuzla ,"['', 'Şifa']",2,1,100,11,1,18000
  Fatih ,"['', 'Silivrikapı']",1,1,80,45,1,14000
  Kağıthane ,"['', 'Hamidiye']",2,1,80,0,1,45000
@@ -2986,7 +2910,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Küçükçekmece ,"['', 'Tevfik', 'Bey']",2,1,85,10,0,17000
  Bağcılar ,"['', 'Yıldıztepe']",2,1,115,11,4,13500
  Bahçelievler ,"['', 'Zafer']",2,1,90,21,2,20000
- Beylikdüzü ,"['', 'Marmara']",3,1,200,25,1,25000
  Silivri ,"['', 'Fener']",2,1,100,16,0,35000
  Çekmeköy ,"['', 'Cumhuriyet']",2,1,75,8,1,15000
  Fatih ,"['', 'Şehremini']",2,1,120,50,3,25000
@@ -3037,7 +2960,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Maltepe ,"['', 'Fındıklı']",2,1,100,8,1,23000
  Ümraniye ,"['', 'İstiklal']",3,1,120,26,2,24500
  Güngören ,"['', 'Gençosman']",2,1,95,26,4,25000
- Beylikdüzü ,"['', 'Kavaklı']",4,1,200,4,0,45000
  Üsküdar ,"['', 'Salacak']",1,1,60,40,0,15000
  Kadıköy ,"['', 'Osmanağa']",2,1,70,31,4,31000
  Ataşehir ,"['', 'Mustafa', 'Kemal']",3,1,150,26,3,38000
@@ -3077,7 +2999,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Başakşehir ,"['', 'Kayabaşı']",3,1,120,0,5,35000
  Maltepe ,"['', 'İdealtepe']",3,1,145,21,3,42000
  Esenyurt ,"['', 'Mehterçeşme']",2,1,110,14,2,15000
- Avcılar ,"['', 'Üniversite']",3,1,185,4,4,60000
  Küçükçekmece ,"['', 'Yarımburgaz']",2,1,90,0,4,18000
  Sarıyer ,"['', 'Maslak']",1,1,75,8,8,55000
  Kadıköy ,"['', 'Göztepe']",3,1,175,25,4,60000
@@ -3100,7 +3021,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Sancaktepe ,"['', 'İnönü']",2,1,85,1,2,20000
  Sancaktepe ,"['', 'Kemal', 'Türkler']",2,1,90,4,2,20000
  Çekmeköy ,"['', 'Güngören']",2,1,100,1,5,45000
- Ümraniye ,"['', 'Necip', 'Fazıl']",4,1,222,19,0,83000
  Kağıthane ,"['', 'Gültepe']",2,1,95,23,3,25000
  Küçükçekmece ,"['', 'Kanarya']",3,1,130,0,2,21000
  Üsküdar ,"['', 'Bulgurlu']",2,1,120,28,3,22000
@@ -3118,7 +3038,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Bahçelievler ,"['', 'Zafer']",3,1,115,17,3,25000
  Ümraniye ,"['', 'Çamlık']",2,1,102,2,3,43000
  Kadıköy ,"['', 'Bostancı']",2,1,95,33,5,40000
- Beşiktaş ,"['', 'Ulus']",3,1,220,21,2,100000
  Fatih ,"['', 'Şehremini']",2,1,90,7,1,29500
  Avcılar ,"['', 'Ambarlı']",1,1,75,30,3,14500
  Şişli ,"['', 'Mecidiyeköy']",2,1,75,5,0,15000
@@ -3155,7 +3074,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Kağıthane ,"['', 'Merkez']",2,1,80,11,1,36000
  Bahçelievler ,"['', 'Soğanlı']",3,1,165,29,3,29000
  Maltepe ,"['', 'Fındıklı']",2,1,94,0,3,23000
- Başakşehir ,"['', 'Kayabaşı']",4,1,205,7,6,50000
  Kağıthane ,"['', 'Yahya', 'Kemal']",2,1,85,10,1,30000
  Şişli ,"['', 'Cumhuriyet']",2,1,110,14,1,40000
  Beşiktaş ,"['', 'Arnavutköy']",3,1,130,35,3,55000
@@ -3174,7 +3092,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Beşiktaş ,"['', 'Türkali']",2,1,82,40,3,23000
  Kadıköy ,"['', 'Bostancı']",3,1,120,6,8,70000
  Fatih ,"['', 'Topkapı']",1,1,75,40,0,25000
- Tuzla ,"['', 'Aydıntepe']",3,1,195,5,1,41500
  Bağcılar ,"['', '15', 'Temmuz']",2,1,122,0,6,35000
  Kağıthane ,"['', 'Seyrantepe']",2,1,120,10,1,35000
  Ümraniye ,"['', 'Mehmet', 'Akif']",3,1,135,7,8,45000
@@ -3225,7 +3142,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Beylikdüzü ,"['', 'Adnan', 'Kahveci']",3,1,165,5,4,37500
  Bahçelievler ,"['', 'Zafer']",1,1,90,5,1,15000
  Sarıyer ,"['', 'Tarabya']",3,1,120,25,5,26000
- Bakırköy ,"['', 'Şenlikköy']",3,1,210,26,3,95000
  Bahçelievler ,"['', 'Kocasinan', 'Merkez']",3,1,125,21,0,15000
  Kağıthane ,"['', 'Seyrantepe']",2,1,90,11,1,25000
  Başakşehir ,"['', 'Kayabaşı']",2,1,85,11,5,25000
@@ -3363,7 +3279,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Beşiktaş ,"['', 'Yıldız']",1,1,85,25,1,27000
  Ümraniye ,"['', 'Necip', 'Fazıl']",2,1,75,15,3,26500
  Büyükçekmece ,"['', 'Fatih']",3,1,150,30,1,20000
- Sarıyer ,"['', 'Zekeriyaköy']",3,1,200,4,0,100000
  Beyoğlu ,"['', 'Tomtom']",1,1,82,5,0,55000
  Başakşehir ,"['', 'Başakşehir']",2,1,140,3,8,35000
  Şişli ,"['', 'Gülbahar']",2,1,80,25,0,17000
@@ -3401,13 +3316,11 @@ district,neighborhood,room,living_room,area,age,floor,price
  Beykoz ,"['', 'Göztepe']",1,1,55,35,1,15000
  Silivri ,"['', 'Selimpaşa']",2,1,85,55,0,15000
  Beylikdüzü ,"['', 'Kavaklı']",3,1,150,2,4,20000
- Kadıköy ,"['', 'Caferağa']",1,1,200,45,6,65000
  Beşiktaş ,"['', 'Levazım']",3,1,150,25,2,80000
  Eyüpsultan ,"['', 'Karadolap']",2,1,85,0,0,19000
  Maltepe ,"['', 'Yalı']",3,1,130,36,1,27000
  Pendik ,"['', 'Güllü', 'Bağlar']",2,1,65,26,0,13000
  Güngören ,"['', 'Güneştepe']",1,1,75,35,0,18000
- Sarıyer ,"['', 'Zekeriyaköy']",3,1,200,4,0,100000
  Zeytinburnu ,"['', 'Sümer']",1,1,75,29,5,15500
  Kağıthane ,"['', 'Gültepe']",2,1,73,0,1,30250
  Bağcılar ,"['', 'Kirazlı']",1,1,55,30,0,8000
@@ -3426,7 +3339,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Maltepe ,"['', 'Fındıklı']",3,1,125,15,3,25000
  Fatih ,"['', 'Seyyid', 'Ömer']",1,1,65,40,1,17000
  Beyoğlu ,"['', 'Cihangir']",1,1,75,31,2,59500
- Şişli ,"['', 'Bozkurt']",3,1,200,0,1,60000
  Şişli ,"['', 'Mecidiyeköy']",1,1,108,11,0,17000
  Esenyurt ,"['', 'Zafer']",1,1,60,7,1,9000
  Esenyurt ,"['', 'Örnek']",3,1,135,8,2,17000
@@ -3467,7 +3379,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Üsküdar ,"['', 'Barbaros']",3,1,110,26,3,43000
  Bahçelievler ,"['', 'Bahçelievler']",2,1,105,40,5,25000
  Beylikdüzü ,"['', 'Barış']",3,1,145,20,5,26000
- Sarıyer ,"['', 'Maslak']",3,1,200,8,5,95000
  Kağıthane ,"['', 'Şirintepe']",1,1,60,21,3,11000
  Şişli ,"['', 'Teşvikiye']",3,1,150,40,2,58000
  Fatih ,"['', 'Seyyid', 'Ömer']",2,1,75,35,3,25000
@@ -3586,7 +3497,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Sarıyer ,"['', 'Büyükdere']",2,1,120,15,0,45000
  Küçükçekmece ,"['', 'Cumhuriyet']",3,1,170,23,2,28000
  Gaziosmanpaşa ,"['', 'Yeni', 'Mahalle']",2,1,90,12,1,18500
- Bahçelievler ,"['', 'Yenibosna', 'Merkez']",3,1,220,5,4,60000
  Başakşehir ,"['', 'Kayabaşı']",2,1,70,8,4,20000
  Kağıthane ,"['', 'Çağlayan']",2,1,85,10,5,28500
  Güngören ,"['', 'Abdurrahman', 'Nafiz', 'Gürman']",4,1,160,35,8,27000
@@ -3625,7 +3535,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Beyoğlu ,"['', 'Cihangir']",2,1,125,60,1,75000
  Bahçelievler ,"['', 'Zafer']",2,1,85,21,1,19500
  Kağıthane ,"['', 'Sultan', 'Selim']",1,1,75,29,1,15000
- Fatih ,"['', 'İskenderpaşa']",3,1,190,39,1,31000
  Tuzla ,"['', 'Şifa']",2,1,105,5,2,19000
  Sarıyer ,"['', 'Huzur']",2,1,76,0,1,40750
  Şişli ,"['', 'Mecidiyeköy']",1,1,65,35,0,15000
@@ -3699,7 +3608,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Ümraniye ,"['', 'Atatürk']",2,1,75,5,1,20000
  Esenyurt ,"['', 'Cumhuriyet']",2,1,90,12,3,16000
  Kağıthane ,"['', 'Yahya', 'Kemal']",2,1,90,0,-1,20000
- Sarıyer ,"['', 'Kazım', 'Karabekir', 'Paşa']",2,1,190,20,0,23500
  Üsküdar ,"['', 'Sultantepe']",2,1,75,35,0,26000
  Küçükçekmece ,"['', 'Kanarya']",2,1,90,3,0,15000
  Esenyurt ,"['', 'Yeşilkent']",2,1,110,4,1,15750
@@ -3708,7 +3616,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Avcılar ,"['', 'Cihangir']",3,1,150,8,3,25500
  Güngören ,"['', 'Gençosman']",2,1,110,29,5,15000
  Fatih ,"['', 'Seyyid', 'Ömer']",3,1,140,0,5,38000
- Sarıyer ,"['', 'Yeniköy']",4,1,195,30,3,75000
  Esenyurt ,"['', 'Mehmet', 'Akif', 'Ersoy']",2,1,95,3,1,12000
  Sultangazi ,"['', 'Eski', 'Habipler']",2,1,66,0,3,20000
  Ümraniye ,"['', 'Çamlık']",2,1,100,24,1,18000
@@ -3771,7 +3678,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Bahçelievler ,"['', 'Şirinevler']",2,1,105,4,1,21500
  Beşiktaş ,"['', 'Cihannüma']",2,1,110,21,0,20000
  Şişli ,"['', '19', 'Mayıs']",2,1,120,21,-2,25000
- Küçükçekmece ,"['', 'Fatih']",4,1,200,15,4,28000
  Beşiktaş ,"['', 'Yıldız']",2,1,85,40,3,40000
  Küçükçekmece ,"['', 'Atakent']",1,1,55,28,3,16000
  Sarıyer ,"['', 'Sarıyer', 'Merkez']",3,1,150,40,3,60000
@@ -3898,7 +3804,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Beşiktaş ,"['', 'Dikilitaş']",1,1,60,0,2,34000
  Beşiktaş ,"['', 'Dikilitaş']",1,1,60,6,4,30000
  Beşiktaş ,"['', 'Balmumcu']",3,1,110,31,0,48000
- Kadıköy ,"['', 'Caddebostan']",4,1,210,30,4,100000
  Kadıköy ,"['', 'Acıbadem']",3,1,120,35,0,25000
  Büyükçekmece ,"['', 'Sinanoba']",1,1,75,18,1,20000
  Bakırköy ,"['', 'Zeytinlik']",2,1,170,32,3,45000
@@ -3916,7 +3821,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Şişli ,"['', 'Feriköy']",2,1,125,40,4,33000
  Maltepe ,"['', 'Zümrütevler']",3,1,120,33,5,25000
  Şişli ,"['', 'Teşvikiye']",2,1,135,30,0,40000
- Büyükçekmece ,"['', 'Alkent', '2000']",3,1,185,4,2,40000
  Esenyurt ,"['', 'Cumhuriyet']",1,1,80,8,3,17000
  Maltepe ,"['', 'Küçükyalı']",2,1,100,30,3,30000
  Beşiktaş ,"['', 'Gayrettepe']",3,1,135,35,3,40000
@@ -4004,14 +3908,12 @@ district,neighborhood,room,living_room,area,age,floor,price
  Beşiktaş ,"['', 'Muradiye']",3,1,120,40,1,38000
  Bahçelievler ,"['', 'Bahçelievler']",3,1,120,33,5,23000
  Ümraniye ,"['', 'Esenşehir']",1,1,66,13,5,29000
- Beşiktaş ,"['', 'Nisbetiye']",4,1,200,32,5,80000
  Başakşehir ,"['', 'Kayabaşı']",2,1,69,12,3,23000
  Bahçelievler ,"['', 'Şirinevler']",3,1,116,40,5,20000
  Maltepe ,"['', 'Fındıklı']",1,1,65,8,0,17000
  Eyüpsultan ,"['', 'Alibeyköy']",1,1,110,7,0,23000
  Beykoz ,"['', 'Tokatköy']",1,1,50,21,0,22000
  Ataşehir ,"['', 'Yeni', 'Sahra']",1,1,70,10,-1,20000
- Beylikdüzü ,"['', 'Adnan', 'Kahveci']",3,1,185,4,1,25000
  Kadıköy ,"['', 'Bostancı']",3,1,160,21,7,40000
  Gaziosmanpaşa ,"['', 'Karadeniz']",1,1,78,8,8,36000
  Zeytinburnu ,"['', 'Beştelsiz']",3,1,125,27,2,38500
@@ -4055,10 +3957,8 @@ district,neighborhood,room,living_room,area,age,floor,price
  Bayrampaşa ,"['', 'Kocatepe']",2,1,100,21,3,25000
  Üsküdar ,"['', 'Ferah']",2,1,80,10,3,31000
  Başakşehir ,"['', 'Ziya', 'Gökalp']",2,1,106,0,4,28000
- Avcılar ,"['', 'Firuzköy']",4,1,200,12,3,35000
  Gaziosmanpaşa ,"['', 'Karadeniz']",1,1,92,10,3,23000
  Kartal ,"['', 'Orta']",2,1,105,8,3,30000
- Silivri ,"['', 'Balaban']",4,1,200,0,0,52500
  Sarıyer ,"['', 'Ferahevler']",1,1,65,2,1,55000
  Çekmeköy ,"['', 'Mehmet', 'Akif']",3,1,115,16,1,35000
  Kadıköy ,"['', 'Acıbadem']",3,1,105,35,5,36000
@@ -4070,7 +3970,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Beylikdüzü ,"['', 'Marmara']",2,1,105,11,5,25000
  Bakırköy ,"['', 'Şenlikköy']",2,1,160,5,5,90000
  Sarıyer ,"['', 'Maslak']",3,1,165,2,6,90000
- Kağıthane ,"['', 'Hürriyet']",3,1,220,0,8,58000
  Kadıköy ,"['', 'Merdivenköy']",2,1,75,30,3,27500
  Başakşehir ,"['', 'Bahçeşehir', '2.', 'Kısım']",2,1,100,20,0,27500
  Beykoz ,"['', 'Kavacık']",3,1,160,20,6,15000
@@ -4156,11 +4055,9 @@ district,neighborhood,room,living_room,area,age,floor,price
  Beykoz ,"['', 'Ortaçeşme']",2,1,85,25,1,16000
  Silivri ,"['', 'Mimar', 'Sinan']",3,1,170,4,3,29000
  Ataşehir ,"['', 'İçerenköy']",2,1,89,35,2,20000
- Kartal ,"['', 'Kordonboyu']",4,1,200,15,0,75000
  Üsküdar ,"['', 'Murat', 'Reis']",3,1,120,35,4,30000
  Üsküdar ,"['', 'Altunizade']",3,1,110,35,2,33000
  Üsküdar ,"['', 'Zeynep', 'Kamil']",3,1,120,31,0,25000
- Bakırköy ,"['', 'Şenlikköy']",4,1,200,21,2,75000
  Büyükçekmece ,"['', 'Atatürk']",3,1,150,18,3,30000
  Avcılar ,"['', 'Ambarlı']",2,1,85,10,3,23000
  Fatih ,"['', 'Şehremini']",3,1,125,42,1,40000
@@ -4228,7 +4125,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Beyoğlu ,"['', 'Halıcıoğlu']",2,1,85,26,2,21000
  Ümraniye ,"['', 'Yukarı', 'Dudullu']",3,1,130,21,1,23000
  Esenyurt ,"['', 'Yeşilkent']",2,1,170,0,8,19000
- Arnavutköy ,"['', 'Mavigöl']",4,1,195,5,0,100000
  Kağıthane ,"['', 'Talatpaşa']",1,1,65,1,3,25000
  Beyoğlu ,"['', 'Kılıçali', 'Paşa']",3,1,100,40,0,40000
  Esenyurt ,"['', 'Zafer']",2,1,90,5,2,27500
@@ -4236,9 +4132,7 @@ district,neighborhood,room,living_room,area,age,floor,price
  Küçükçekmece ,"['', 'Gültepe']",2,1,100,31,1,25000
  Esenyurt ,"['', 'Balıkyolu']",3,1,100,6,1,13500
  Beylikdüzü ,"['', 'Gürpınar']",2,1,110,0,4,22000
- Beylikdüzü ,"['', 'Marmara']",4,1,220,0,1,65000
  Üsküdar ,"['', 'Altunizade']",2,1,154,8,3,75000
- Beylikdüzü ,"['', 'Marmara']",3,1,210,21,8,27000
  Çekmeköy ,"['', 'Cumhuriyet']",2,1,65,11,1,19000
  Kartal ,"['', 'Çavuşoğlu']",2,1,90,0,4,31000
  Esenyurt ,"['', 'Fatih']",2,1,79,5,0,13000
@@ -4252,7 +4146,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Başakşehir ,"['', 'Ziya', 'Gökalp']",1,1,61,0,7,18000
  Kadıköy ,"['', 'Fikirtepe']",2,1,108,4,3,47000
  Çekmeköy ,"['', 'Cumhuriyet']",4,1,150,3,3,40000
- Avcılar ,"['', 'Mustafa', 'Kemal', 'Paşa']",4,1,220,4,3,30000
  Sarıyer ,"['', 'Maslak']",3,1,174,9,2,70000
  Beyoğlu ,"['', 'Hacımimi']",1,1,110,5,0,55000
  Şişli ,"['', '19', 'Mayıs']",2,1,85,11,5,34000
@@ -4291,7 +4184,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Sarıyer ,"['', 'Tarabya']",2,1,65,30,0,15000
  Adalar ,"['', 'Maden']",2,1,120,5,0,26000
  Bakırköy ,"['', 'Yeşilyurt']",3,1,120,5,0,70000
- Beylikdüzü ,"['', 'Marmara']",3,1,200,25,1,25000
  Sarıyer ,"['', 'Kireçburnu']",1,1,70,25,0,16000
  Sancaktepe ,"['', 'Atatürk']",3,1,142,11,2,36000
  Ümraniye ,"['', 'Esenevler']",3,1,125,10,4,35000
@@ -4385,7 +4277,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Küçükçekmece ,"['', 'Cennet']",3,1,120,35,2,23000
  Şişli ,"['', 'Kuştepe']",2,1,75,21,3,19000
  Beykoz ,"['', 'Yeni', 'Mahalle']",2,1,105,26,0,20000
- Beylikdüzü ,"['', 'Adnan', 'Kahveci']",3,1,189,5,5,50000
  Kartal ,"['', 'Orta']",2,1,105,8,3,30000
  Kartal ,"['', 'Orta']",2,1,105,8,3,30000
  Başakşehir ,"['', 'Bahçeşehir', '2.', 'Kısım']",2,1,151,21,6,25000
@@ -4414,7 +4305,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Küçükçekmece ,"['', 'Kanarya']",2,1,85,12,1,15500
  Esenyurt ,"['', 'Balıkyolu']",2,1,100,0,1,14500
  Beylikdüzü ,"['', 'Yakuplu']",2,1,95,8,1,20000
- Kadıköy ,"['', 'Suadiye']",4,1,210,35,4,90000
  Çekmeköy ,"['', 'Sultançiftliği']",3,1,148,11,8,40000
  Esenyurt ,"['', 'Yeşilkent']",1,1,75,9,3,12000
  Fatih ,"['', 'Koca', 'Mustafapaşa']",3,1,120,40,4,32000
@@ -4483,7 +4373,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Eyüpsultan ,"['', 'Güzeltepe']",2,1,107,2,1,42000
  Beyoğlu ,"['', 'Şehit', 'Muhtar']",1,1,70,31,0,21500
  Kağıthane ,"['', 'Gürsel']",2,1,95,5,1,25000
- Bahçelievler ,"['', 'Bahçelievler']",3,1,200,0,2,75000
  Üsküdar ,"['', 'Bahçelievler']",3,1,147,19,4,36000
  Şişli ,"['', 'Eskişehir']",2,1,90,7,4,28000
  Esenyurt ,"['', 'Güzelyurt']",2,1,95,18,4,15000
@@ -4509,7 +4398,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Fatih ,"['', 'Balat']",1,1,55,35,0,20000
  Beylikdüzü ,"['', 'Adnan', 'Kahveci']",1,1,78,9,1,22000
  Sarıyer ,"['', 'Maslak']",1,1,85,12,3,45000
- Beylikdüzü ,"['', 'Adnan', 'Kahveci']",3,1,200,8,4,35500
  Beykoz ,"['', 'Çiğdem']",1,1,65,25,-1,17000
  Esenyurt ,"['', 'Fatih']",3,1,120,5,4,18000
  Ataşehir ,"['', 'İçerenköy']",1,1,65,25,0,22500
@@ -4526,7 +4414,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Küçükçekmece ,"['', 'Kartaltepe']",1,1,20,20,3,10000
  Bahçelievler ,"['', 'Kocasinan', 'Merkez']",2,1,105,5,1,29500
  Beylikdüzü ,"['', 'Dereağzı']",3,1,130,3,1,30000
- Bakırköy ,"['', 'Şenlikköy']",4,1,200,25,2,75000
  Bahçelievler ,"['', 'Siyavuşpaşa']",3,1,120,36,3,25000
  Kadıköy ,"['', 'Caferağa']",1,1,66,1,1,45000
  Maltepe ,"['', 'Feyzullah']",2,1,100,0,2,45000
@@ -4565,7 +4452,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Beykoz ,"['', 'Acarlar']",2,1,175,0,2,75000
  Bahçelievler ,"['', 'Siyavuşpaşa']",2,1,90,30,2,22000
  Kadıköy ,"['', 'Caferağa']",1,1,70,45,0,32000
- Kadıköy ,"['', 'Erenköy']",4,1,200,25,6,85000
  Şişli ,"['', 'Kuştepe']",1,1,55,30,3,10000
  Kadıköy ,"['', 'Fikirtepe']",3,1,160,11,2,40500
  Beşiktaş ,"['', 'Etiler']",1,1,70,4,0,70000
@@ -4579,7 +4465,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Kartal ,"['', 'Hürriyet']",3,1,140,1,7,35000
  Kartal ,"['', 'Hürriyet']",2,1,90,5,1,29000
  Küçükçekmece ,"['', 'Atakent']",3,1,141,11,3,55000
- Beylikdüzü ,"['', 'Adnan', 'Kahveci']",3,1,190,5,5,37000
  Esenyurt ,"['', 'Mevlana']",3,1,145,26,8,25000
  Avcılar ,"['', 'Merkez']",2,1,70,11,0,15000
  Sarıyer ,"['', 'Kireçburnu']",3,1,130,16,4,60000
@@ -4665,19 +4550,16 @@ district,neighborhood,room,living_room,area,age,floor,price
  Çekmeköy ,"['', 'Çatalmeşe']",2,1,95,6,3,21000
  Bahçelievler ,"['', 'Yenibosna', 'Merkez']",2,1,90,5,1,35000
  Kartal ,"['', 'Atalar']",2,1,85,0,2,33000
- Beyoğlu ,"['', 'Cihangir']",3,1,201,31,4,100000
  Esenler ,"['', 'Kazım', 'Karabekir']",2,1,85,13,0,11000
  Kadıköy ,"['', 'Osmanağa']",1,1,78,40,2,25000
  Esenyurt ,"['', 'Turgut', 'Özal']",1,1,90,5,5,12000
  Kağıthane ,"['', 'Sultan', 'Selim']",2,1,70,4,-2,20000
  Kağıthane ,"['', 'Sultan', 'Selim']",2,1,90,29,5,29999
  Ümraniye ,"['', 'Esenkent']",2,1,110,5,7,25000
- Sarıyer ,"['', 'Maslak']",3,1,195,8,3,79999
  Pendik ,"['', 'Kavakpınar']",3,1,120,2,1,21000
  Ümraniye ,"['', 'Finanskent']",3,1,135,1,3,75000
  Küçükçekmece ,"['', 'İstasyon']",1,1,50,5,0,14500
  Üsküdar ,"['', 'Aziz', 'Mahmut', 'Hüdayi']",2,1,75,0,3,35000
- Maltepe ,"['', 'Küçükyalı']",4,1,210,30,2,85000
  Beyoğlu ,"['', 'Bereketzade']",3,1,160,4,6,95000
  Şişli ,"['', 'Halide', 'Edip', 'Adıvar']",2,1,80,40,5,21000
  Ataşehir ,"['', 'Esatpaşa']",2,1,90,8,3,25000
@@ -4716,12 +4598,10 @@ district,neighborhood,room,living_room,area,age,floor,price
  Kartal ,"['', 'Uğur', 'Mumcu']",3,1,120,26,1,23000
  Bakırköy ,"['', 'Yeşilköy']",3,1,130,31,3,35000
  Kağıthane ,"['', 'Sultan', 'Selim']",1,1,53,0,1,18250
- Avcılar ,"['', 'Mustafa', 'Kemal', 'Paşa']",2,1,10,0,0,24000
  Fatih ,"['', 'Cerrahpaşa']",2,1,95,35,1,20000
  Üsküdar ,"['', 'Ünalan']",1,1,60,0,0,22500
  Bakırköy ,"['', 'Zuhuratbaba']",3,1,110,35,3,26000
  Bağcılar ,"['', 'Yenimahalle']",2,1,100,20,2,20000
- Beylikdüzü ,"['', 'Cumhuriyet']",3,1,210,8,4,35000
  Bahçelievler ,"['', 'Bahçelievler']",2,1,85,39,3,24000
  Kağıthane ,"['', 'Ortabayır']",2,1,90,35,1,16500
  Ataşehir ,"['', 'İçerenköy']",2,1,100,27,4,35000
@@ -4773,7 +4653,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Ataşehir ,"['', 'İçerenköy']",3,1,140,25,3,34500
  Şile ,"['', 'Balibey']",3,1,120,35,2,23000
  Küçükçekmece ,"['', 'Halkalı', 'Merkez']",2,1,100,28,0,10000
- Üsküdar ,"['', 'Ünalan']",3,1,200,28,4,30000
  Sarıyer ,"['', 'Demirciköy']",2,1,99,0,2,20000
  Avcılar ,"['', 'Mustafa', 'Kemal', 'Paşa']",3,1,160,25,5,20000
  Üsküdar ,"['', 'Güzeltepe']",3,1,117,0,2,55000
@@ -4845,7 +4724,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Pendik ,"['', 'Yenişehir']",1,1,67,11,3,20000
  Küçükçekmece ,"['', 'Atakent']",2,1,156,0,4,67500
  Esenyurt ,"['', 'Mevlana']",3,1,145,26,6,28000
- Tuzla ,"['', 'Tepeören']",3,1,194,16,0,85000
  Fatih ,"['', 'Şehremini']",2,1,90,0,2,40000
  Çekmeköy ,"['', 'Sultançiftliği']",2,1,88,5,4,30000
  Beşiktaş ,"['', 'Levent']",3,1,130,31,6,55000
@@ -4854,7 +4732,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Tuzla ,"['', 'Aydınlı']",3,1,160,4,4,30000
  Fatih ,"['', 'Akşemsettin']",3,1,119,34,3,33000
  Beylikdüzü ,"['', 'Marmara']",1,1,78,1,2,40000
- Kartal ,"['', 'Gümüşpınar']",4,1,195,29,5,25000
  Şişli ,"['', '19', 'Mayıs']",2,1,90,30,0,29000
  Pendik ,"['', 'Esenyalı']",3,1,145,15,4,18000
  Beylikdüzü ,"['', 'Adnan', 'Kahveci']",2,1,130,0,2,40000
@@ -4879,7 +4756,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Beyoğlu ,"['', 'Yenişehir']",1,1,60,40,0,9000
  Küçükçekmece ,"['', 'Gültepe']",2,1,85,34,2,17000
  Bayrampaşa ,"['', 'Cevatpaşa']",2,1,80,30,3,15500
- Beşiktaş ,"['', 'Etiler']",3,1,220,2,2,95000
  Pendik ,"['', 'Yenişehir']",2,1,118,1,2,35000
  Küçükçekmece ,"['', 'Fatih']",2,1,90,4,8,25000
  Şişli ,"['', 'Mecidiyeköy']",2,1,90,10,2,40000
@@ -4904,7 +4780,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Fatih ,"['', 'Ayvansaray']",2,1,75,25,5,18000
  Beykoz ,"['', 'İncirköy']",2,1,130,30,2,19500
  Sancaktepe ,"['', 'Osmangazi']",2,1,76,8,3,21000
- Bahçelievler ,"['', 'Yenibosna', 'Merkez']",4,1,210,5,3,60000
  Kağıthane ,"['', 'Çağlayan']",2,1,80,10,2,23000
  Pendik ,"['', 'Esenyalı']",3,1,120,11,4,17000
  Kadıköy ,"['', 'Bostancı']",3,1,150,26,5,30000
@@ -4915,7 +4790,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Maltepe ,"['', 'Zümrütevler']",2,1,75,5,2,24500
  Beşiktaş ,"['', 'Kuruçeşme']",3,1,120,28,0,35000
  Eyüpsultan ,"['', 'Göktürk', 'Merkez']",3,1,148,0,2,90000
- Pendik ,"['', 'Batı']",3,1,210,0,1,71000
  Kadıköy ,"['', 'Caferağa']",3,1,115,40,4,38000
  Ümraniye ,"['', 'Esenkent']",2,1,85,9,3,17000
  Beşiktaş ,"['', 'Akat']",3,1,120,30,5,64500
@@ -4926,7 +4800,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Başakşehir ,"['', 'Altınşehir']",1,1,65,28,0,8000
  Tuzla ,"['', 'Şifa']",3,1,100,11,0,19500
  Sarıyer ,"['', 'Maslak']",3,1,178,8,8,75000
- Maltepe ,"['', 'Feyzullah']",4,1,200,23,5,45000
  Fatih ,"['', 'Mevlanakapı']",2,1,95,35,3,20000
  Üsküdar ,"['', 'Salacak']",2,1,85,1,3,40000
  Küçükçekmece ,"['', 'Atakent']",3,1,132,13,1,37500
@@ -4936,7 +4809,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Ataşehir ,"['', 'İçerenköy']",3,1,160,21,2,30000
  Bayrampaşa ,"['', 'Altıntepsi']",1,1,65,5,2,30000
  Avcılar ,"['', 'Mustafa', 'Kemal', 'Paşa']",2,1,95,8,3,20000
- Beşiktaş ,"['', 'Ulus']",3,1,220,16,2,100000
  Şişli ,"['', 'Kuştepe']",2,1,180,15,5,90000
  Kadıköy ,"['', 'Suadiye']",4,1,160,28,6,65000
  Şişli ,"['', 'Halide', 'Edip', 'Adıvar']",2,1,80,35,5,18000
@@ -4979,7 +4851,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Ümraniye ,"['', 'İstiklal']",3,1,90,15,0,24500
  Beyoğlu ,"['', 'Cihangir']",2,1,90,50,0,32000
  Sancaktepe ,"['', 'Abdurrahmangazi']",2,1,120,3,6,43000
- Şişli ,"['', 'Feriköy']",3,1,185,26,1,37500
  Güngören ,"['', 'Mareşal', 'Çakmak']",3,1,145,15,1,26000
  Maltepe ,"['', 'Küçükyalı']",3,1,130,30,2,32000
  Silivri ,"['', 'Mimar', 'Sinan']",2,1,95,2,1,15500
@@ -5026,7 +4897,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Güngören ,"['', 'Güneştepe']",3,1,145,26,4,21000
  Şişli ,"['', 'Mecidiyeköy']",2,1,85,6,5,24000
  Avcılar ,"['', 'Gümüşpala']",2,1,140,30,5,15000
- Kadıköy ,"['', 'Caferağa']",4,1,225,35,2,100000
  Bayrampaşa ,"['', 'Yıldırım']",2,1,85,0,0,21000
  Pendik ,"['', 'Kavakpınar']",3,1,140,16,4,17000
  Beyoğlu ,"['', 'Sütlüce']",3,1,130,30,3,26000
@@ -5050,7 +4920,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Pendik ,"['', 'Dumlupınar']",2,1,100,14,2,22000
  Beşiktaş ,"['', 'Balmumcu']",2,1,113,50,4,40000
  Sarıyer ,"['', 'Cumhuriyet']",2,1,100,25,0,22000
- Üsküdar ,"['', 'Acıbadem']",4,1,210,26,1,41950
  Pendik ,"['', 'Kaynarca']",3,1,110,5,2,30000
  Fatih ,"['', 'Topkapı']",2,1,95,45,1,20000
  Beyoğlu ,"['', 'Ömer', 'Avni']",2,1,60,31,2,35000
@@ -5067,14 +4936,12 @@ district,neighborhood,room,living_room,area,age,floor,price
  Bakırköy ,"['', 'Osmaniye']",3,1,120,25,1,45000
  Küçükçekmece ,"['', 'Atakent']",3,1,147,5,2,60000
  Esenyurt ,"['', 'Barbaros', 'Hayrettin', 'Paşa']",2,1,110,11,2,28000
- Beylikdüzü ,"['', 'Marmara']",4,1,220,0,6,45000
  Fatih ,"['', 'Şehremini']",2,1,90,0,2,40000
  Bahçelievler ,"['', 'Yenibosna', 'Merkez']",3,1,148,10,1,54000
  Büyükçekmece ,"['', 'Celaliye']",3,1,175,21,1,20000
  Gaziosmanpaşa ,"['', 'Karadeniz']",2,1,136,7,7,35000
  Tuzla ,"['', 'Aydınlı']",1,1,75,11,0,24000
  Beşiktaş ,"['', 'Nisbetiye']",3,1,120,31,8,84450
- Kadıköy ,"['', 'Suadiye']",4,1,220,37,4,90000
  Beylikdüzü ,"['', 'Barış']",3,1,180,21,0,23000
  Sultanbeyli ,"['', 'Hasanpaşa']",3,1,160,5,5,35000
  Başakşehir ,"['', 'Başakşehir']",1,1,69,0,5,24000
@@ -5127,7 +4994,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Sarıyer ,"['', 'Kireçburnu']",1,1,65,31,0,17000
  Eyüpsultan ,"['', 'Emniyettepe']",2,1,90,2,1,24000
  Üsküdar ,"['', 'Zeynep', 'Kamil']",2,1,75,31,3,19500
- Beşiktaş ,"['', 'Etiler']",3,1,200,40,0,90000
  Ataşehir ,"['', 'İçerenköy']",2,1,85,4,2,29000
  Bahçelievler ,"['', 'Cumhuriyet']",1,1,75,8,1,15000
  Sultanbeyli ,"['', 'Adil']",2,1,100,5,3,22000
@@ -5326,7 +5192,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Sarıyer ,"['', 'Ayazağa']",3,1,140,20,3,25000
  Eyüpsultan ,"['', 'Göktürk', 'Merkez']",2,1,120,14,1,48000
  Ataşehir ,"['', 'Küçükbakkalköy']",1,1,61,5,7,34000
- Tuzla ,"['', 'Tepeören']",4,1,188,0,0,90000
  Pendik ,"['', 'Kaynarca']",2,1,130,30,5,20000
  Kartal ,"['', 'Hürriyet']",3,1,120,0,4,30000
  Esenyurt ,"['', 'Akevler']",2,1,145,3,8,19500
@@ -5341,7 +5206,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Gaziosmanpaşa ,"['', 'Kazım', 'Karabekir']",1,1,80,29,5,10000
  Arnavutköy ,"['', 'Hastane']",3,1,125,5,4,22000
  Küçükçekmece ,"['', 'Kartaltepe']",2,1,75,11,0,16000
- Çekmeköy ,"['', 'Çatalmeşe']",4,1,220,2,5,35000
  Avcılar ,"['', 'Cihangir']",3,1,120,27,0,13000
  Üsküdar ,"['', 'Kandilli']",3,1,120,15,1,45000
  Avcılar ,"['', 'Mustafa', 'Kemal', 'Paşa']",3,1,155,45,5,15000
@@ -5349,7 +5213,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Maltepe ,"['', 'Küçükyalı']",2,1,100,31,4,25000
  Kağıthane ,"['', 'Yeşilce']",3,1,110,10,3,25000
  Ümraniye ,"['', 'Çamlık']",3,1,124,15,1,28000
- Sarıyer ,"['', 'Zekeriyaköy']",4,1,190,26,2,65000
  Bağcılar ,"['', 'Mahmutbey']",3,1,165,23,4,24000
  Beylikdüzü ,"['', 'Büyükşehir']",3,1,105,27,2,25000
  Kadıköy ,"['', 'Merdivenköy']",2,1,90,1,2,49000
@@ -5371,7 +5234,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Ümraniye ,"['', 'Namık', 'Kemal']",3,1,105,21,1,45000
  Üsküdar ,"['', 'Zeynep', 'Kamil']",2,1,90,40,2,20000
  Küçükçekmece ,"['', 'Atakent']",1,1,75,7,3,24500
- Bakırköy ,"['', 'Şenlikköy']",4,1,220,26,3,57000
  Beşiktaş ,"['', 'Muradiye']",3,1,130,21,3,42500
  Kağıthane ,"['', 'Çeliktepe']",1,1,65,30,4,18000
  Sultangazi ,"['', 'Esentepe']",3,1,95,0,3,21000
@@ -5387,7 +5249,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Sarıyer ,"['', 'Cumhuriyet']",2,1,90,25,0,16000
  Esenler ,"['', 'Nine', 'Hatun']",2,1,90,5,1,19000
  Kağıthane ,"['', 'Yahya', 'Kemal']",1,1,75,25,-1,10000
- Büyükçekmece ,"['', 'Kamiloba']",4,1,200,1,2,25000
  Başakşehir ,"['', 'Kayabaşı']",3,1,124,0,3,45000
  Esenyurt ,"['', 'Piri', 'Reis']",1,1,80,5,2,12000
  Maltepe ,"['', 'Aydınevler']",3,1,130,14,0,28500
@@ -5483,7 +5344,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Sarıyer ,"['', 'Zekeriyaköy']",1,1,79,8,3,50000
  Silivri ,"['', 'Selimpaşa']",2,1,130,20,0,18000
  Sarıyer ,"['', 'Ayazağa']",2,1,100,10,4,35000
- Şişli ,"['', 'Merkez']",3,1,200,0,5,100000
  Kağıthane ,"['', 'Gültepe']",1,1,80,1,2,17000
  Kağıthane ,"['', 'Hürriyet']",2,1,90,27,2,20000
  Beşiktaş ,"['', 'Levent']",2,1,80,0,2,35000
@@ -5497,7 +5357,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Başakşehir ,"['', 'Altınşehir']",2,1,90,11,0,12000
  Şişli ,"['', 'Yayla']",1,1,65,12,0,27000
  Eyüpsultan ,"['', 'Güzeltepe']",2,1,95,3,6,34000
- Beylikdüzü ,"['', 'Marmara']",4,1,210,1,3,60000
  Üsküdar ,"['', 'Acıbadem']",2,1,80,5,2,50000
  Esenyurt ,"['', 'Hürriyet']",3,1,125,5,3,23000
  Ümraniye ,"['', 'Çamlık']",3,1,130,4,2,35000
@@ -5512,7 +5371,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Kadıköy ,"['', 'Caferağa']",3,1,110,45,4,60000
  Kadıköy ,"['', 'Kozyatağı']",3,1,125,31,3,33000
  Beyoğlu ,"['', 'Kocatepe']",1,1,70,45,2,17000
- Beşiktaş ,"['', 'Nisbetiye']",4,1,208,35,5,80000
  Beşiktaş ,"['', 'Etiler']",2,1,100,17,2,67000
  Kağıthane ,"['', 'Seyrantepe']",2,1,90,21,4,18500
  Beşiktaş ,"['', 'Cihannüma']",3,1,165,30,4,50000
@@ -5522,7 +5380,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Kadıköy ,"['', 'Kozyatağı']",3,1,130,32,3,45000
  Bağcılar ,"['', '100.', 'Yıl']",2,1,100,26,1,12000
  Esenyurt ,"['', 'Necip', 'Fazıl', 'Kısakürek']",2,1,100,10,3,12000
- Beşiktaş ,"['', 'Ortaköy']",3,1,200,15,5,90000
  Esenyurt ,"['', 'Güzelyurt']",2,1,125,15,3,18000
  Beyoğlu ,"['', 'Firuzağa']",2,1,70,26,2,42000
  Beylikdüzü ,"['', 'Yakuplu']",1,1,60,5,-2,13500
@@ -5602,7 +5459,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Ataşehir ,"['', 'Kayışdağı']",3,1,90,15,3,23000
  Şişli ,"['', 'Fulya']",3,1,140,26,2,55000
  Ataşehir ,"['', 'Atatürk']",1,1,67,25,1,25000
- Sarıyer ,"['', 'Huzur']",3,1,185,5,6,85000
  Üsküdar ,"['', 'Ünalan']",3,1,113,31,5,39000
  Gaziosmanpaşa ,"['', 'Yıldıztabya']",3,1,130,2,0,33000
  Üsküdar ,"['', 'Zeynep', 'Kamil']",3,1,100,30,0,16000
@@ -5613,7 +5469,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Şişli ,"['', 'Gülbahar']",2,1,100,5,0,25000
  Kağıthane ,"['', 'Merkez']",2,1,77,0,2,40000
  Küçükçekmece ,"['', 'Fatih']",2,1,95,40,2,15000
- Şişli ,"['', 'Fulya']",4,1,200,32,3,59000
  Kağıthane ,"['', 'Ortabayır']",2,1,90,25,3,20000
  Maltepe ,"['', 'Altıntepe']",2,1,95,35,2,21000
  Zeytinburnu ,"['', 'Yeşiltepe']",2,1,110,25,0,15000
@@ -5674,7 +5529,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Esenler ,"['', 'Nine', 'Hatun']",3,1,135,16,3,24000
  Beyoğlu ,"['', 'Cihangir']",2,1,85,26,2,50000
  Küçükçekmece ,"['', 'Gültepe']",2,1,85,30,5,15500
- Avcılar ,"['', 'Firuzköy']",4,1,200,11,3,35000
  Beylikdüzü ,"['', 'Kavaklı']",2,1,100,3,2,27000
  Güngören ,"['', 'Abdurrahman', 'Nafiz', 'Gürman']",2,1,110,25,1,30000
  Esenyurt ,"['', 'Barbaros', 'Hayrettin', 'Paşa']",3,1,165,5,2,25000
@@ -5754,7 +5608,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Beyoğlu ,"['', 'Bereketzade']",3,1,160,31,4,75000
  Başakşehir ,"['', 'Kayabaşı']",3,1,135,7,8,35000
  Büyükçekmece ,"['', 'Fatih']",2,1,90,31,2,16000
- Beylikdüzü ,"['', 'Marmara']",3,1,210,21,6,30000
  Tuzla ,"['', 'Postane']",2,1,80,0,1,25000
  Fatih ,"['', 'Sümbül', 'Efendi']",2,1,70,40,4,20100
  Şişli ,"['', '19', 'Mayıs']",2,1,85,5,0,36000
@@ -5864,7 +5717,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Beyoğlu ,"['', 'Şahkulu']",3,1,120,50,1,75000
  Beyoğlu ,"['', 'Kuloğlu']",2,1,140,40,3,45000
  Beyoğlu ,"['', 'Hacımimi']",2,1,90,3,3,55000
- Beşiktaş ,"['', 'Nisbetiye']",4,1,200,30,6,80000
  Beyoğlu ,"['', 'Yenişehir']",2,1,85,25,1,20000
  Kadıköy ,"['', 'Eğitim']",1,1,50,45,3,14000
  Kadıköy ,"['', 'Bostancı']",2,1,115,30,1,60000
@@ -5898,7 +5750,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Beşiktaş ,"['', 'Cihannüma']",2,1,85,31,0,24000
  Beyoğlu ,"['', 'Halıcıoğlu']",2,1,85,26,2,23000
  Kartal ,"['', 'Hürriyet']",1,1,65,0,5,21000
- Bahçelievler ,"['', 'Bahçelievler']",4,1,190,0,4,72000
  Avcılar ,"['', 'Tahtakale']",3,1,156,8,3,45000
  Beşiktaş ,"['', 'Konaklar']",1,1,55,1,4,33000
  Sarıyer ,"['', 'Çamlıtepe']",3,1,140,40,1,36000
@@ -5919,14 +5770,12 @@ district,neighborhood,room,living_room,area,age,floor,price
  Sarıyer ,"['', 'Zekeriyaköy']",3,1,150,18,3,70000
  Eyüpsultan ,"['', 'Akşemsettin']",2,1,95,4,8,35000
  Eyüpsultan ,"['', 'Göktürk', 'Merkez']",3,1,148,0,3,90000
- Eyüpsultan ,"['', 'Göktürk', 'Merkez']",2,1,200,5,2,100000
  Şişli ,"['', 'Fulya']",3,1,150,30,4,35000
  Avcılar ,"['', 'Üniversite']",2,1,100,5,3,5000
  Beşiktaş ,"['', 'Türkali']",2,1,143,41,5,38000
  Kağıthane ,"['', 'Sultan', 'Selim']",2,1,70,0,4,26500
  Kadıköy ,"['', 'Caferağa']",1,1,55,25,2,30000
  Üsküdar ,"['', 'Kuzguncuk']",1,1,80,35,0,20000
- Beşiktaş ,"['', 'Levazım']",4,1,200,31,3,100000
  Bahçelievler ,"['', 'Bahçelievler']",3,1,155,0,3,54800
  Kağıthane ,"['', 'Çağlayan']",2,1,65,10,1,30000
  Gaziosmanpaşa ,"['', 'Barbaros', 'Hayrettinpaşa']",2,1,100,25,3,18000
@@ -6010,7 +5859,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Zeytinburnu ,"['', 'Sümer']",3,1,160,25,3,40800
  Arnavutköy ,"['', 'Mavigöl']",3,1,180,9,2,60000
  Sarıyer ,"['', 'Uskumruköy']",1,1,70,3,3,55000
- Sarıyer ,"['', 'Zekeriyaköy']",4,1,200,31,4,70000
  Üsküdar ,"['', 'Güzeltepe']",3,1,90,0,1,43500
  Güngören ,"['', 'Gençosman']",3,1,115,24,1,28000
  Büyükçekmece ,"['', 'Çakmaklı']",1,1,75,0,2,17900
@@ -6024,24 +5872,20 @@ district,neighborhood,room,living_room,area,age,floor,price
  Maltepe ,"['', 'Girne']",3,1,115,35,3,37000
  Adalar ,"['', 'Maden']",3,1,180,26,5,55000
  Maltepe ,"['', 'Altıntepe']",3,1,170,35,4,52000
- Arnavutköy ,"['', 'Hadımköy']",3,1,204,0,5,25000
  Avcılar ,"['', 'Merkez']",3,1,135,20,3,23000
  Kadıköy ,"['', 'Osmanağa']",1,1,50,40,3,28000
  Kadıköy ,"['', 'Feneryolu']",3,1,150,31,3,44000
- Kağıthane ,"['', 'Hürriyet']",3,1,225,5,8,55000
  Şile ,"['', 'Ağva', 'Merkez']",2,1,140,10,5,26000
  Küçükçekmece ,"['', 'Gültepe']",1,1,55,8,5,22000
  Beylikdüzü ,"['', 'Adnan', 'Kahveci']",3,1,130,25,8,30000
  Beşiktaş ,"['', 'Yıldız']",3,1,120,35,1,40000
  Sultangazi ,"['', 'Eski', 'Habipler']",4,1,165,0,6,40000
- Kağıthane ,"['', 'Merkez']",1,1,10,20,6,9000
  Fatih ,"['', 'Balat']",1,1,65,30,0,17000
  Güngören ,"['', 'Gençosman']",3,1,120,4,2,7000
  Bahçelievler ,"['', 'Cumhuriyet']",2,1,75,14,4,18000
  Esenyurt ,"['', 'Mehmet', 'Akif', 'Ersoy']",2,1,75,12,1,12000
  Beşiktaş ,"['', 'Yıldız']",3,1,130,38,2,60000
  Beyoğlu ,"['', 'Piri', 'Paşa']",2,1,95,14,3,30000
- Beyoğlu ,"['', 'Gümüşsuyu']",4,1,207,20,1,34500
  Güngören ,"['', 'Güneştepe']",2,1,100,31,5,18000
  Maltepe ,"['', 'Başıbüyük']",2,1,100,25,3,20000
  Kağıthane ,"['', 'Sultan', 'Selim']",3,1,130,29,2,24000
@@ -6145,10 +5989,8 @@ district,neighborhood,room,living_room,area,age,floor,price
  Tuzla ,"['', 'İstasyon']",2,1,110,23,4,22500
  Ataşehir ,"['', 'İnönü']",3,1,100,5,8,35000
  Maltepe ,"['', 'Zümrütevler']",3,1,155,5,1,28900
- Bakırköy ,"['', 'Şenlikköy']",4,1,220,26,3,85000
  Şişli ,"['', 'Merkez']",2,1,140,3,5,80000
  Avcılar ,"['', 'Cihangir']",3,1,160,21,4,17500
- Kağıthane ,"['', 'Hamidiye']",3,1,183,0,6,100000
  Zeytinburnu ,"['', 'Telsiz']",2,1,115,25,3,20000
  Kadıköy ,"['', 'Göztepe']",1,1,102,9,5,75000
  Eyüpsultan ,"['', 'Göktürk', 'Merkez']",2,1,148,0,4,70000
@@ -6179,7 +6021,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Kağıthane ,"['', 'Harmantepe']",2,1,75,16,-1,20000
  Beyoğlu ,"['', 'Cihangir']",2,1,90,45,2,50000
  Şişli ,"['', 'Yayla']",2,1,100,12,1,36000
- Eyüpsultan ,"['', 'Göktürk', 'Merkez']",2,1,200,10,3,100000
  Ümraniye ,"['', 'Esenkent']",3,1,170,15,0,65000
  Fatih ,"['', 'Koca', 'Mustafapaşa']",2,1,85,40,5,20000
  Eyüpsultan ,"['', 'Merkez']",2,1,80,18,-2,15000
@@ -6193,7 +6034,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Beşiktaş ,"['', 'Abbasağa']",2,1,85,35,0,30000
  Beşiktaş ,"['', 'Yıldız']",1,1,75,25,1,25000
  Küçükçekmece ,"['', 'Yeşilova']",2,1,120,25,3,20000
- Bahçelievler ,"['', 'Bahçelievler']",3,1,194,7,4,70000
  Ümraniye ,"['', 'Esenevler']",3,1,100,15,3,22000
  Bakırköy ,"['', 'Şenlikköy']",2,1,120,10,0,50000
  Başakşehir ,"['', 'Bahçeşehir', '1.', 'Kısım']",1,1,70,11,6,21500
@@ -6205,7 +6045,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Sarıyer ,"['', 'Kazım', 'Karabekir', 'Paşa']",2,1,110,1,2,25000
  Başakşehir ,"['', 'Kayabaşı']",2,1,85,11,1,21000
  Zeytinburnu ,"['', 'Gökalp']",2,1,85,30,2,30000
- Esenyurt ,"['', 'Koza']",3,1,186,5,4,30000
  Şişli ,"['', 'İnönü']",3,1,150,35,0,45000
  Esenyurt ,"['', 'Talatpaşa']",2,1,85,0,3,15000
  Maltepe ,"['', 'Aydınevler']",2,1,125,24,2,28750
@@ -6235,7 +6074,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Esenyurt ,"['', 'Üçevler']",2,1,105,12,3,15250
  Üsküdar ,"['', 'Bulgurlu']",2,1,67,4,1,28000
  Maltepe ,"['', 'Cevizli']",1,1,78,1,1,30000
- Çekmeköy ,"['', 'Güngören']",2,1,217,1,0,56000
  Avcılar ,"['', 'Denizköşkler']",2,1,120,0,5,36500
  Beylikdüzü ,"['', 'Barış']",1,1,65,11,7,18000
  Şişli ,"['', 'Cumhuriyet']",1,1,70,11,6,45000
@@ -6299,7 +6137,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Esenyurt ,"['', 'Zafer']",1,1,65,7,1,11000
  Şişli ,"['', 'Mecidiyeköy']",2,1,90,10,2,30000
  Kadıköy ,"['', 'Göztepe']",3,1,180,32,2,75000
- Kadıköy ,"['', 'Caddebostan']",4,1,210,30,2,100000
  Silivri ,"['', 'Selimpaşa']",2,1,90,21,1,22000
  Büyükçekmece ,"['', 'Kamiloba']",2,1,90,30,3,15000
  Bahçelievler ,"['', 'Yenibosna', 'Merkez']",3,1,156,5,5,50000
@@ -6343,7 +6180,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Çekmeköy ,"['', 'Cumhuriyet']",2,1,110,5,5,22000
  Fatih ,"['', 'Koca', 'Mustafapaşa']",2,1,75,35,4,15000
  Pendik ,"['', 'Fatih']",2,1,98,0,7,24000
- Beylikdüzü ,"['', 'Marmara']",4,1,200,3,3,60000
  Maltepe ,"['', 'Altıntepe']",2,1,75,0,1,31250
  Esenyurt ,"['', 'Koza']",2,1,115,13,0,29000
  Şişli ,"['', 'Cumhuriyet']",2,1,90,10,3,58000
@@ -6365,7 +6201,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Şişli ,"['', 'Yayla']",2,1,80,30,0,17000
  Beşiktaş ,"['', 'Türkali']",2,1,75,4,1,40000
  Maltepe ,"['', 'Altıntepe']",2,1,90,0,4,42500
- Sarıyer ,"['', 'Tarabya']",2,1,200,20,2,75000
  Bahçelievler ,"['', 'Soğanlı']",2,1,90,33,4,18000
  Bakırköy ,"['', 'Yenimahalle']",2,1,80,40,1,20000
  Kağıthane ,"['', 'Ortabayır']",2,1,80,25,3,20000
@@ -6416,7 +6251,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Avcılar ,"['', 'Cihangir']",2,1,90,26,4,16000
  Kadıköy ,"['', 'Dumlupınar']",2,1,80,2,5,37000
  Eyüpsultan ,"['', 'Karadolap']",2,1,75,26,1,17250
- Üsküdar ,"['', 'Bahçelievler']",4,1,200,21,0,75000
  Kağıthane ,"['', 'Hamidiye']",2,1,110,1,1,80000
  Sancaktepe ,"['', 'Atatürk']",3,1,130,14,3,26000
  Kadıköy ,"['', 'Zühtüpaşa']",2,1,100,31,3,35000
@@ -6444,7 +6278,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Pendik ,"['', 'Yenişehir']",3,1,125,16,4,28000
  Üsküdar ,"['', 'Salacak']",2,1,80,0,3,40000
  Bağcılar ,"['', 'Yenimahalle']",3,1,110,31,2,19000
- Başakşehir ,"['', 'Bahçeşehir', '1.', 'Kısım']",3,1,200,19,4,35500
  Beşiktaş ,"['', 'Gayrettepe']",1,1,80,21,0,17000
  Kağıthane ,"['', 'Seyrantepe']",2,1,90,21,1,20000
  Esenyurt ,"['', 'Akevler']",3,1,130,5,5,19000
@@ -6485,7 +6318,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Maltepe ,"['', 'Altıntepe']",3,1,140,6,0,37000
  Beyoğlu ,"['', 'Küçük', 'Piyale']",2,1,100,25,0,25000
  Şişli ,"['', 'Feriköy']",2,1,100,32,3,25000
- Beykoz ,"['', 'Acarlar']",3,1,200,16,2,66000
  Üsküdar ,"['', 'Altunizade']",2,1,77,21,1,30000
  Avcılar ,"['', 'Cihangir']",2,1,85,24,5,15000
  Beylikdüzü ,"['', 'Yakuplu']",3,1,160,10,1,20000
@@ -6517,11 +6349,9 @@ district,neighborhood,room,living_room,area,age,floor,price
  Esenyurt ,"['', 'Gökevler']",2,1,133,5,6,23000
  Şişli ,"['', 'Kuştepe']",1,1,55,6,3,20000
  Büyükçekmece ,"['', 'Pınartepe']",3,1,180,11,2,50000
- Kadıköy ,"['', 'Suadiye']",3,1,185,34,5,70000
  Pendik ,"['', 'Güllü', 'Bağlar']",1,1,70,3,3,25000
  Kartal ,"['', 'Cumhuriyet']",3,1,159,25,2,30000
  Zeytinburnu ,"['', 'Beştelsiz']",2,1,100,11,1,24000
- Kağıthane ,"['', 'Hürriyet']",3,1,220,5,8,55000
  Şişli ,"['', 'Halaskargazi']",3,1,130,30,4,50000
  Ümraniye ,"['', 'Namık', 'Kemal']",2,1,110,30,3,25000
  Çekmeköy ,"['', 'Hamidiye']",2,1,100,10,0,20000
@@ -6694,7 +6524,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Pendik ,"['', 'Çınardere']",3,1,150,3,5,30000
  Esenyurt ,"['', 'Piri', 'Reis']",1,1,101,7,4,16250
  Şişli ,"['', 'Yayla']",2,1,100,25,1,25000
- Bakırköy ,"['', 'Şenlikköy']",4,1,200,0,2,100000
  Üsküdar ,"['', 'Ünalan']",3,1,130,28,7,36000
  Şişli ,"['', 'Halide', 'Edip', 'Adıvar']",2,1,110,4,4,40000
  Büyükçekmece ,"['', 'Pınartepe']",3,1,180,11,4,30000
@@ -6718,7 +6547,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Şişli ,"['', '19', 'Mayıs']",2,1,70,30,0,34500
  Zeytinburnu ,"['', 'Seyitnizam']",2,1,90,15,1,23000
  Sarıyer ,"['', 'Maslak']",1,1,78,9,3,40000
- Üsküdar ,"['', 'Salacak']",3,1,200,0,4,60000
  Esenyurt ,"['', 'Yunus', 'Emre']",2,1,100,5,0,9000
  Beyoğlu ,"['', 'Kılıçali', 'Paşa']",2,1,95,55,4,70000
  Kağıthane ,"['', 'Ortabayır']",2,1,75,25,2,16000
@@ -6743,7 +6571,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Bakırköy ,"['', 'Ataköy', '7-8-9-10.', 'Kısım']",1,1,96,4,5,47000
  Sarıyer ,"['', 'Çayırbaşı']",3,1,110,16,2,60000
  Esenyurt ,"['', 'Güzelyurt']",2,1,110,4,0,12000
- Maltepe ,"['', 'Küçükyalı']",4,1,200,0,4,75000
  Başakşehir ,"['', 'Başakşehir']",1,1,58,0,6,23000
  Bahçelievler ,"['', 'Kocasinan', 'Merkez']",3,1,120,13,1,25000
  Beşiktaş ,"['', 'Dikilitaş']",1,1,70,32,0,25000
@@ -6793,7 +6620,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Tuzla ,"['', 'Mimar', 'Sinan']",2,1,115,4,3,23000
  Beykoz ,"['', 'Tokatköy']",2,1,120,25,3,20000
  Esenyurt ,"['', 'Güzelyurt']",2,1,105,4,1,25000
- Üsküdar ,"['', 'Çengelköy']",4,1,200,40,1,50000
  Beyoğlu ,"['', 'Cihangir']",2,1,120,31,4,100000
  Şişli ,"['', 'İnönü']",2,1,85,30,3,35000
  Kağıthane ,"['', 'Sultan', 'Selim']",2,1,90,25,2,24000
@@ -6834,7 +6660,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Şişli ,"['', 'Cumhuriyet']",2,1,89,40,4,28000
  Beylikdüzü ,"['', 'Adnan', 'Kahveci']",2,1,90,20,1,25000
  Kağıthane ,"['', 'Hamidiye']",2,1,95,2,3,45000
- Sarıyer ,"['', 'Maslak']",3,1,185,11,8,75000
  Bakırköy ,"['', 'Yenimahalle']",2,1,118,5,0,49500
  Avcılar ,"['', 'Cihangir']",3,1,115,25,1,15000
  Şişli ,"['', 'Bozkurt']",2,1,100,15,6,50000
@@ -6848,7 +6673,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Fatih ,"['', 'Karagümrük']",3,1,145,31,5,42000
  Ataşehir ,"['', 'Kayışdağı']",1,1,50,10,2,22000
  Başakşehir ,"['', 'Altınşehir']",2,1,90,4,0,13000
- Sarıyer ,"['', 'Sarıyer', 'Merkez']",3,1,190,16,5,40000
  Bahçelievler ,"['', 'Şirinevler']",2,1,80,15,5,3000
  Büyükçekmece ,"['', 'Mimar', 'Sinan', 'Merkez']",3,1,180,15,0,6000
  Kağıthane ,"['', 'Ortabayır']",2,1,130,30,1,35000
@@ -6863,7 +6687,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Üsküdar ,"['', 'Bahçelievler']",1,1,60,11,5,25000
  Esenyurt ,"['', 'Namık', 'Kemal']",2,1,100,1,5,12000
  Şişli ,"['', 'Mecidiyeköy']",2,1,95,27,5,25000
- Kağıthane ,"['', 'Hürriyet']",3,1,220,7,8,55000
  Beşiktaş ,"['', 'Ortaköy']",2,1,90,30,3,37000
  Ümraniye ,"['', 'Çamlık']",1,1,70,15,0,17000
  Beyoğlu ,"['', 'Kocatepe']",1,1,55,8,2,32000
@@ -6933,7 +6756,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Büyükçekmece ,"['', 'Mimaroba']",2,1,55,35,1,23000
  Küçükçekmece ,"['', 'Cennet']",3,1,120,22,4,27000
  Beykoz ,"['', 'Yeni', 'Mahalle']",2,1,110,11,1,23000
- Beylikdüzü ,"['', 'Marmara']",3,1,185,4,4,55000
  Beşiktaş ,"['', 'Muradiye']",2,1,80,31,1,46500
  Beykoz ,"['', 'Çamlıbahçe']",3,1,130,25,3,27000
  Şişli ,"['', 'Halide', 'Edip', 'Adıvar']",1,1,65,11,0,25000
@@ -6948,7 +6770,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Silivri ,"['', 'Balaban']",3,1,120,16,2,20000
  Beyoğlu ,"['', 'İstiklal']",1,1,62,15,1,20000
  Beyoğlu ,"['', 'Ömer', 'Avni']",1,1,45,40,0,25000
- Beykoz ,"['', 'Kavacık']",3,1,220,11,0,8000
  Sarıyer ,"['', 'Yeniköy']",2,1,100,30,0,36000
  Bahçelievler ,"['', 'Yenibosna', 'Merkez']",2,1,80,15,1,15000
  Beyoğlu ,"['', 'Piyalepaşa']",1,1,70,21,0,11000
@@ -7011,7 +6832,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Çekmeköy ,"['', 'Sultançiftliği']",3,1,148,11,1,39500
  Sarıyer ,"['', 'Kocataş']",4,1,140,2,5,35000
  Pendik ,"['', 'Yenişehir']",3,1,180,10,3,49500
- Şişli ,"['', 'Kuştepe']",2,1,188,12,8,90000
  Beyoğlu ,"['', 'Pürtelaş', 'Hasan', 'Efendi']",2,1,110,30,2,50000
  Bakırköy ,"['', 'Yeşilköy']",3,1,160,15,0,85000
  Beyoğlu ,"['', 'Kılıçali', 'Paşa']",3,1,120,40,3,70000
@@ -7090,7 +6910,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Beyoğlu ,"['', 'Gümüşsuyu']",1,1,55,35,1,25000
  Şişli ,"['', '19', 'Mayıs']",2,1,85,4,2,43000
  Kağıthane ,"['', 'Hamidiye']",2,1,110,35,5,20000
- Beşiktaş ,"['', 'Nisbetiye']",4,1,208,31,7,90000
  Güngören ,"['', 'Abdurrahman', 'Nafiz', 'Gürman']",3,1,135,31,4,25000
  Esenyurt ,"['', 'Osmangazi']",2,1,130,12,1,13000
  Bakırköy ,"['', 'Sakızağacı']",1,1,55,26,5,16000
@@ -7098,7 +6917,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Zeytinburnu ,"['', 'Veliefendi']",2,1,85,26,5,12000
  Bakırköy ,"['', 'Ataköy', '7-8-9-10.', 'Kısım']",1,1,72,4,8,40000
  Adalar ,"['', 'Kınalıada']",4,1,150,30,2,40000
- Ümraniye ,"['', 'Ihlamurkuyu']",3,1,200,21,4,30000
  Beyoğlu ,"['', 'Halıcıoğlu']",2,1,100,12,3,22000
  Üsküdar ,"['', 'Aziz', 'Mahmut', 'Hüdayi']",2,1,85,20,0,25000
  Zeytinburnu ,"['', 'Gökalp']",3,1,106,29,2,24449
@@ -7188,7 +7006,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Şişli ,"['', 'Gülbahar']",2,1,90,32,4,25000
  Beykoz ,"['', 'Kavacık']",2,1,75,30,2,20000
  Sancaktepe ,"['', 'Kemal', 'Türkler']",3,1,125,21,1,18500
- Bakırköy ,"['', 'Şenlikköy']",4,1,200,25,2,78000
  Esenyurt ,"['', 'Zafer']",1,1,90,6,0,22000
  Kadıköy ,"['', 'Fikirtepe']",1,1,55,1,6,30000
  Sarıyer ,"['', 'Maden']",2,1,77,0,2,50000
@@ -7264,11 +7081,9 @@ district,neighborhood,room,living_room,area,age,floor,price
  Kağıthane ,"['', 'Emniyet', 'Evleri']",3,1,160,30,3,45000
  Avcılar ,"['', 'Ambarlı']",3,1,125,30,0,12000
  Kağıthane ,"['', 'Sultan', 'Selim']",2,1,96,30,4,25000
- Kartal ,"['', 'Kordonboyu']",4,1,200,27,5,50000
  Beykoz ,"['', 'Çubuklu']",3,1,125,26,2,40000
  Bakırköy ,"['', 'Ataköy', '7-8-9-10.', 'Kısım']",3,1,130,28,7,46000
  Şişli ,"['', '19', 'Mayıs']",2,1,65,5,2,39000
- Beykoz ,"['', 'Kavacık']",4,1,220,11,8,60000
  Kağıthane ,"['', 'Sultan', 'Selim']",3,1,130,29,2,24000
  Şişli ,"['', 'Mecidiyeköy']",1,1,80,4,2,42000
  Beşiktaş ,"['', 'Yıldız']",1,1,65,1,2,50000
@@ -7292,13 +7107,11 @@ district,neighborhood,room,living_room,area,age,floor,price
  Eyüpsultan ,"['', 'Emniyettepe']",4,1,160,5,4,40000
  Kağıthane ,"['', 'Talatpaşa']",1,1,75,3,6,25000
  Bakırköy ,"['', 'Zuhuratbaba']",3,1,115,1,0,45000
- Bahçelievler ,"['', 'Bahçelievler']",4,1,205,31,7,57000
  Bahçelievler ,"['', 'Siyavuşpaşa']",3,1,130,25,1,23000
  Beşiktaş ,"['', 'Ortaköy']",1,1,70,30,2,40000
  Şişli ,"['', 'Bozkurt']",1,1,50,40,0,17000
  Beyoğlu ,"['', 'Cihangir']",2,1,90,20,1,25000
  Şişli ,"['', 'Harbiye']",1,1,55,31,2,29000
- Zeytinburnu ,"['', 'Nuripaşa']",4,1,200,28,4,30000
  Beşiktaş ,"['', 'Dikilitaş']",2,1,75,6,3,36000
  Eyüpsultan ,"['', 'Yeşilpınar']",1,1,70,10,1,20000
  Maltepe ,"['', 'Altıntepe']",2,1,116,0,5,51000
@@ -7318,7 +7131,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Beylikdüzü ,"['', 'Gürpınar']",2,1,90,25,1,7500
  Şişli ,"['', '19', 'Mayıs']",2,1,85,30,2,33950
  Zeytinburnu ,"['', 'Beştelsiz']",3,1,125,26,4,22000
- Bakırköy ,"['', 'Cevizlik']",2,1,200,40,0,4800
  Kağıthane ,"['', 'Seyrantepe']",1,1,50,26,5,15000
  Fatih ,"['', 'Şehremini']",1,1,66,36,4,14000
  Şişli ,"['', 'Merkez']",2,1,140,40,2,40000
@@ -7326,7 +7138,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Üsküdar ,"['', 'Bulgurlu']",1,1,60,20,5,19000
  Şişli ,"['', 'Mecidiyeköy']",1,1,100,5,3,100000
  Beşiktaş ,"['', 'Yıldız']",2,1,90,45,-2,32500
- Beşiktaş ,"['', 'Akat']",3,1,200,40,4,70000
  Üsküdar ,"['', 'Cumhuriyet']",2,1,85,6,6,30000
  Beyoğlu ,"['', 'Hacımimi']",1,1,70,60,3,35000
  Beşiktaş ,"['', 'Kültür']",3,1,130,35,-1,50000
@@ -7376,7 +7187,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Güngören ,"['', 'Merkez']",2,1,100,26,1,26000
  Bağcılar ,"['', 'Demirkapı']",3,1,120,20,4,18000
  Arnavutköy ,"['', 'Yunus', 'Emre']",2,1,95,11,0,11000
- Beylikdüzü ,"['', 'Kavaklı']",2,1,200,3,0,25000
  Kağıthane ,"['', 'Harmantepe']",2,1,90,20,1,21000
  Maltepe ,"['', 'Zümrütevler']",2,1,110,16,-1,16500
  Fatih ,"['', 'Koca', 'Mustafapaşa']",1,1,65,30,2,15000
@@ -7428,7 +7238,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Şişli ,"['', 'Gülbahar']",2,1,85,10,1,24000
  Sarıyer ,"['', 'Demirciköy']",2,1,100,18,3,35000
  Sarıyer ,"['', 'Kazım', 'Karabekir', 'Paşa']",2,1,100,20,0,15000
- Beşiktaş ,"['', 'Mecidiye']",4,1,215,21,3,90000
  Beykoz ,"['', 'Çiğdem']",2,1,85,16,2,22000
  Şişli ,"['', 'Mecidiyeköy']",3,1,110,31,1,40000
  Bağcılar ,"['', 'Merkez']",2,1,100,25,2,20000
@@ -7489,7 +7298,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Bağcılar ,"['', 'Göztepe']",3,1,120,20,5,21000
  Kartal ,"['', 'Orhantepe']",2,1,90,25,0,21000
  Arnavutköy ,"['', 'İslambey']",2,1,150,15,1,13000
- Fatih ,"['', 'Molla', 'Gürani']",3,1,190,31,2,40000
  Kartal ,"['', 'Cumhuriyet']",3,1,90,3,4,31000
  Küçükçekmece ,"['', 'Kanarya']",2,1,90,25,0,10000
  Sultangazi ,"['', 'Uğur', 'Mumcu']",2,1,110,5,2,21000
@@ -7522,7 +7330,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Sarıyer ,"['', 'Ferahevler']",3,1,100,1,0,65000
  Kağıthane ,"['', 'Hamidiye']",1,1,62,0,5,45000
  Ümraniye ,"['', 'Esenşehir']",1,1,62,2,1,27000
- Şişli ,"['', 'Cumhuriyet']",1,1,200,40,1,30000
  Pendik ,"['', 'Yenişehir']",1,1,55,5,6,20000
  Sarıyer ,"['', 'Zekeriyaköy']",1,1,55,5,0,45000
  Başakşehir ,"['', 'Başakşehir']",2,1,95,5,7,37000
@@ -7537,7 +7344,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Beykoz ,"['', 'Fatih']",1,1,100,11,0,23000
  Esenyurt ,"['', 'Pınar']",2,1,110,5,1,14000
  Küçükçekmece ,"['', 'Yeşilova']",2,1,110,32,3,26000
- Bahçelievler ,"['', 'Şirinevler']",4,1,210,29,4,30000
  Şişli ,"['', 'Eskişehir']",1,1,65,25,1,17500
  Şişli ,"['', 'Paşa']",2,1,80,50,1,25000
  Sarıyer ,"['', 'Poligon']",2,1,100,26,0,30000
@@ -7613,7 +7419,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Büyükçekmece ,"['', 'Çakmaklı']",1,1,86,0,1,23000
  Beyoğlu ,"['', 'Örnektepe']",2,1,90,0,0,30000
  Pendik ,"['', 'Çamçeşme']",2,1,118,0,4,35000
- Bakırköy ,"['', 'Şenlikköy']",3,1,200,30,2,60000
  Küçükçekmece ,"['', 'Atakent']",2,1,84,15,8,25000
  Şişli ,"['', 'Merkez']",1,1,60,30,-2,20000
  Beyoğlu ,"['', 'Kamer', 'Hatun']",1,1,25,15,1,16000
@@ -7693,7 +7498,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Fatih ,"['', 'Koca', 'Mustafapaşa']",2,1,80,35,0,13000
  Esenler ,"['', 'Nine', 'Hatun']",2,1,90,30,2,12000
  Eyüpsultan ,"['', 'Rami', 'Yeni']",2,1,85,7,3,22000
- Silivri ,"['', 'Selimpaşa']",3,1,220,0,1,70000
  Sarıyer ,"['', 'Ayazağa']",2,1,100,21,6,30000
  Kadıköy ,"['', 'Bostancı']",2,1,80,9,4,47500
  Pendik ,"['', 'Kaynarca']",3,1,160,21,2,20000
@@ -7745,8 +7549,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Sarıyer ,"['', 'Maslak']",2,1,160,5,6,65000
  Gaziosmanpaşa ,"['', 'Merkez']",2,1,110,21,5,17000
  Beylikdüzü ,"['', 'Adnan', 'Kahveci']",3,1,160,21,7,25000
- Şişli ,"['', 'Cumhuriyet']",3,1,185,60,2,55000
- Büyükçekmece ,"['', 'Sinanoba']",4,1,220,30,2,46000
  Fatih ,"['', 'Koca', 'Mustafapaşa']",1,1,90,38,5,16500
  Beşiktaş ,"['', 'Yıldız']",3,1,180,25,2,40000
  Kadıköy ,"['', 'Suadiye']",3,1,130,31,2,70000
@@ -7765,7 +7567,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Çekmeköy ,"['', 'Mimar', 'Sinan']",3,1,180,11,0,25000
  Büyükçekmece ,"['', 'Çakmaklı']",1,1,86,0,6,23000
  Beşiktaş ,"['', 'Ulus']",2,1,140,30,2,80000
- Ataşehir ,"['', 'Barbaros']",2,1,191,10,3,100000
  Beykoz ,"['', 'Örnekköy']",3,1,140,15,3,23000
  Başakşehir ,"['', 'Güvercintepe']",3,1,100,4,1,14000
  Sarıyer ,"['', 'Büyükdere']",1,1,90,20,2,20000
@@ -7888,7 +7689,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Bayrampaşa ,"['', 'Yenidoğan']",2,1,105,30,2,30000
  Beykoz ,"['', 'Kavacık']",3,1,120,21,0,35000
  Beyoğlu ,"['', 'Cihangir']",1,1,60,20,3,13000
- Bakırköy ,"['', 'Şenlikköy']",4,1,220,26,3,90000
  Bakırköy ,"['', 'Ataköy', '7-8-9-10.', 'Kısım']",2,1,162,10,7,100000
  Üsküdar ,"['', 'Cumhuriyet']",3,1,140,26,3,35000
  Beşiktaş ,"['', 'Gayrettepe']",1,1,57,0,3,45000
@@ -7940,7 +7740,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Esenyurt ,"['', 'Üçevler']",2,1,100,5,1,11500
  Ataşehir ,"['', 'İçerenköy']",2,1,98,4,2,27500
  Esenyurt ,"['', 'Saadetdere']",1,1,100,15,4,13000
- Şişli ,"['', 'Teşvikiye']",3,1,220,45,2,70000
  Şişli ,"['', 'Eskişehir']",1,1,60,40,1,19000
  Beyoğlu ,"['', 'Kılıçali', 'Paşa']",2,1,100,29,2,49000
  Maltepe ,"['', 'Altıntepe']",1,1,55,10,1,40000
@@ -7951,7 +7750,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Sancaktepe ,"['', 'Fatih']",1,1,62,11,1,25000
  Gaziosmanpaşa ,"['', 'Yıldıztabya']",1,1,65,5,2,20000
  Kartal ,"['', 'Kordonboyu']",2,1,110,28,1,45000
- Beşiktaş ,"['', 'Mecidiye']",4,1,210,0,3,70000
  Sancaktepe ,"['', 'Abdurrahmangazi']",2,1,108,0,1,33000
  Sarıyer ,"['', 'Maslak']",2,1,160,5,8,89000
  Maltepe ,"['', 'Feyzullah']",2,1,110,40,2,22000
@@ -7976,7 +7774,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Beşiktaş ,"['', 'Dikilitaş']",1,1,120,25,0,50000
  Beykoz ,"['', 'Anadolu', 'Hisarı']",3,1,135,31,3,55000
  Adalar ,"['', 'Nizam']",1,1,75,50,2,30000
- Şişli ,"['', 'Fulya']",4,1,200,35,3,55000
  Eyüpsultan ,"['', 'Nişancı']",2,1,65,31,2,18000
  Küçükçekmece ,"['', 'İnönü']",2,1,90,26,0,10000
  Esenler ,"['', 'Nine', 'Hatun']",2,1,100,30,4,19000
@@ -8007,7 +7804,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Maltepe ,"['', 'Fındıklı']",2,1,105,14,3,23000
  Üsküdar ,"['', 'Bahçelievler']",3,1,130,5,3,60000
  Beşiktaş ,"['', 'Muradiye']",3,1,125,38,1,33500
- Bakırköy ,"['', 'Basınköy']",3,1,220,21,2,65000
  Üsküdar ,"['', 'Mimar', 'Sinan']",1,1,50,40,-1,10000
  Maltepe ,"['', 'Fındıklı']",1,1,60,13,5,16000
  Şişli ,"['', 'Merkez']",3,1,105,45,2,40000
@@ -8087,7 +7883,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Gaziosmanpaşa ,"['', 'Karayolları']",3,1,136,11,0,70000
  Üsküdar ,"['', 'Mehmet', 'Akif', 'Ersoy']",3,1,110,20,4,30000
  Maltepe ,"['', 'Başıbüyük']",2,1,75,5,4,30000
- Esenyurt ,"['', 'Akevler']",4,1,210,5,8,19000
  Sarıyer ,"['', 'Maden']",3,1,110,18,2,38000
  Küçükçekmece ,"['', 'Yeşilova']",2,1,110,10,3,6000
  Avcılar ,"['', 'Cihangir']",2,1,100,12,2,20000
@@ -8095,7 +7890,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Küçükçekmece ,"['', 'Kanarya']",2,1,80,34,4,12000
  Üsküdar ,"['', 'Murat', 'Reis']",1,1,75,16,5,20000
  Bakırköy ,"['', 'Sakızağacı']",1,1,90,11,5,29000
- Beşiktaş ,"['', 'Akat']",3,1,205,31,5,75000
  Çekmeköy ,"['', 'Sultançiftliği']",3,1,140,16,1,26000
  Beykoz ,"['', 'Yeni', 'Mahalle']",3,1,110,16,1,17000
  Esenler ,"['', 'Kemer']",2,1,100,26,1,20000
@@ -8104,7 +7898,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Şişli ,"['', 'Gülbahar']",2,1,100,15,5,35000
  Bakırköy ,"['', 'Osmaniye']",3,1,125,31,4,30000
  Başakşehir ,"['', 'Bahçeşehir', '2.', 'Kısım']",1,1,75,2,3,17500
- Beyoğlu ,"['', 'Cihangir']",2,1,80,67,1,35000
  Beşiktaş ,"['', 'Gayrettepe']",1,1,95,14,5,35000
  Avcılar ,"['', 'Merkez']",2,1,110,1,0,20000
  Kağıthane ,"['', 'Merkez']",2,1,100,21,1,24000
@@ -8122,7 +7915,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Esenyurt ,"['', 'Esenkent']",3,1,130,30,6,22500
  Maltepe ,"['', 'Bağlarbaşı']",3,1,180,16,3,36000
  Beyoğlu ,"['', 'Halıcıoğlu']",1,1,65,26,2,17250
- Sarıyer ,"['', 'Zekeriyaköy']",3,1,227,0,0,100000
  Güngören ,"['', 'Abdurrahman', 'Nafiz', 'Gürman']",2,1,115,26,2,35000
  Kağıthane ,"['', 'Harmantepe']",1,1,70,25,2,16000
  Kartal ,"['', 'Hürriyet']",2,1,95,9,1,22000
@@ -8135,7 +7927,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Esenler ,"['', 'Namık', 'Kemal']",2,1,100,25,3,16000
  Güngören ,"['', 'Merkez']",2,1,120,30,1,16000
  Kadıköy ,"['', 'Bostancı']",3,1,140,40,5,40000
- Beşiktaş ,"['', 'Türkali']",3,1,200,0,5,75000
  Avcılar ,"['', 'Cihangir']",2,1,93,30,1,13000
  Esenyurt ,"['', 'Selahaddin', 'Eyyubi']",2,1,75,15,0,8500
  Ataşehir ,"['', 'İnönü']",2,1,85,10,4,22500
@@ -8227,7 +8018,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Maltepe ,"['', 'Küçükyalı']",2,1,95,0,5,44000
  Şişli ,"['', 'Mecidiyeköy']",1,1,60,4,1,40000
  Esenyurt ,"['', 'Fatih']",2,1,110,10,3,10000
- Esenyurt ,"['', 'Barbaros', 'Hayrettin', 'Paşa']",3,1,190,9,6,30000
  Sarıyer ,"['', 'Maden']",2,1,75,0,1,50000
  Avcılar ,"['', 'Firuzköy']",1,1,65,1,2,20000
  Sarıyer ,"['', 'Maslak']",1,1,60,2,3,55000
@@ -8306,7 +8096,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Pendik ,"['', 'Yenişehir']",3,1,125,21,7,22500
  Esenyurt ,"['', 'Osmangazi']",3,1,120,5,2,17000
  Şişli ,"['', 'Gülbahar']",2,1,110,10,0,25000
- Fatih ,"['', 'Akşemsettin']",4,1,195,30,2,45000
  Esenyurt ,"['', 'Mehmet', 'Akif', 'Ersoy']",2,1,115,4,8,28000
  Kadıköy ,"['', 'Koşuyolu']",3,1,125,30,0,33000
  Fatih ,"['', 'Seyyid', 'Ömer']",2,1,90,23,3,25000
@@ -8322,9 +8111,7 @@ district,neighborhood,room,living_room,area,age,floor,price
  Beşiktaş ,"['', 'Yıldız']",2,1,140,33,2,50000
  Kartal ,"['', 'Hürriyet']",1,1,67,0,1,35000
  Zeytinburnu ,"['', 'Seyitnizam']",4,1,160,25,3,24000
- Beykoz ,"['', 'Kavacık']",4,1,200,16,8,60000
  Üsküdar ,"['', 'Bahçelievler']",2,1,100,3,0,45000
- Sancaktepe ,"['', 'Abdurrahmangazi']",4,1,202,0,5,65000
  Maltepe ,"['', 'Fındıklı']",3,1,115,15,2,21000
  Bahçelievler ,"['', 'Şirinevler']",2,1,110,10,3,5000
  Başakşehir ,"['', 'Bahçeşehir', '2.', 'Kısım']",4,1,160,20,2,42500
@@ -8404,7 +8191,6 @@ district,neighborhood,room,living_room,area,age,floor,price
  Şişli ,"['', 'Bozkurt']",2,1,90,35,1,35000
  Avcılar ,"['', 'Mustafa', 'Kemal', 'Paşa']",2,1,150,30,3,17000
  Sarıyer ,"['', 'Ptt', 'Evleri']",2,1,100,26,0,21000
- Başakşehir ,"['', 'Bahçeşehir', '2.', 'Kısım']",3,1,204,25,8,35000
  Beşiktaş ,"['', 'Gayrettepe']",2,1,86,7,1,44000
  Şişli ,"['', 'Gülbahar']",2,1,90,35,-1,24000
  Şişli ,"['', 'Merkez']",3,1,110,31,3,40000

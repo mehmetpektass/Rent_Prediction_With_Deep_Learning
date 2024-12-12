@@ -100,6 +100,7 @@ drop_columns(df, ["celly 4"])
 # Clean and transform "list-view-price" column and drop a column
 df['list-view-price'] = df['list-view-price'].astype(str).apply(lambda x: x.replace('.', ''))
 df['price'] = df['list-view-price'].astype(int)
+df = df[df["price"] != "NaN"]
 print(df['price'].unique())
 
 drop_columns(df, ["list-view-price"])

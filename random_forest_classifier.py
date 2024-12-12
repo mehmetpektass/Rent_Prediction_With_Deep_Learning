@@ -24,7 +24,6 @@ df['price'] = df['price'].astype('int')
 categorical_features = ['district', 'neighborhood']
 numerical_features = ['room', 'living_room', 'area', 'age', 'floor']
 
-
 full_pipeline = ColumnTransformer([
     ("num", StandardScaler(), numerical_features),
     ("cat", OneHotEncoder(handle_unknown="ignore"), categorical_features)
@@ -40,17 +39,18 @@ model = Pipeline([
 X = df.drop("price", axis=1)
 y = df["price"]
 
-bins = [x for x in range(0, 300000, 10000)]
-labels = [x for x in range(1, 30)]
-print(bins, labels)
+
+bins = [x for x in range(0, 130000, 10000)]
+labels = [x for x in range(1, 13)]
 
 y = pd.cut(y, bins = bins, labels = labels)
-
 
 # Fit the set
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 model.fit(X_train, y_train)
+df.info()
+df.describe()
 
 y_pred = model.predict(X_test)
 print(confusion_matrix(y_pred, y_test))
-
+print(classification_report(y_pred, y_test))
