@@ -21,7 +21,7 @@ df['price'] = df['price'].astype('int')
 
 
 # Create pipeline and model
-categorical_features = ['city', 'district', 'neighborhood']
+categorical_features = ['district', 'neighborhood']
 numerical_features = ['room', 'living_room', 'area', 'age', 'floor']
 
 
@@ -45,3 +45,7 @@ labels = [x for x in range(1, 30)]
 print(bins, labels)
 
 
+y = pd.cut(y, bins = bins, labels = labels)
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+model.fit(X_train, y_train)
