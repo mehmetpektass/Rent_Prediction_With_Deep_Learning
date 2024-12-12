@@ -14,6 +14,7 @@ df['floor'] = df['floor'].astype('int')
 df['price'] = df['price'].astype('int')
 
 df.describe()
+df.info()
 
 # Calculate the interquartile range (IQR) for each numerical column
 columns = df.select_dtypes(include=[np.number]).columns
@@ -35,3 +36,5 @@ for i, column in enumerate(columns):
     df = df[(df[column] <= max_values[i]) & (df[column] >=min_values[i])]
     
 df = df[df["price"] >= 2500]
+
+df.to_csv('data_cleaned.csv', index=False)
