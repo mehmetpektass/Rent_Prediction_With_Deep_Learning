@@ -62,3 +62,17 @@ print(f"Test Mean Absolute Error: {mae}")
 y_pred = model.predict(X_test)
 r2 = r2_score(y_test, y_pred)
 print(f"R² Score: {r2}")
+
+
+new_data = pd.DataFrame({
+    'district': ['Beşiktaş'],
+    'neighborhood': ['Mecidiye'],
+    'room': [4],
+    'living_room': [1],
+    'area': [130],
+    'age': [0],
+    'floor': [1]
+}) 
+new_data_prepared = full_pipeline.transform(new_data)
+
+print(model.predict(new_data_prepared))
