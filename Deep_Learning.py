@@ -43,3 +43,9 @@ model = Sequential([
     Dropout(0.3),
     Dense(1, activation="linear"),
 ])
+
+
+# Compile the model
+model.compile(optimizer="adam",
+              loss="mean_squared_error",
+              metrics=["mae"])
