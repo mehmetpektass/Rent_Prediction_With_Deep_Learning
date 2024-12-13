@@ -3,6 +3,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
 from sklearn.compose import ColumnTransformer
+from sklearn.metrics import r2_score
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Dropout
 
@@ -57,3 +58,7 @@ model.fit(X_train, y_train, epochs=50, batch_size=32, validation_split=0.2)
 loss, mae = model.evaluate(X_test, y_test)
 print(f"Test Loss: {loss}")
 print(f"Test Mean Absolute Error: {mae}")
+
+y_pred = model.predict(X_test)
+r2 = r2_score(y_test, y_pred)
+print(f"R² Score: {r2}")
