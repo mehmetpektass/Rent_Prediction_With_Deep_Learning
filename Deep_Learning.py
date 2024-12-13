@@ -45,7 +45,15 @@ model = Sequential([
 ])
 
 
-# Compile the model
+# Compile the model and train the model
 model.compile(optimizer="adam",
               loss="mean_squared_error",
               metrics=["mae"])
+
+model.fit(X_train, y_train, epochs=50, batch_size=32, validation_split=0.2)
+
+
+# Evaluate the model
+loss, mae = model.evaluate(X_test, y_test)
+print(f"Test Loss: {loss}")
+print(f"Test Mean Absolute Error: {mae}")
