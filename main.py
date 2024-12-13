@@ -24,10 +24,10 @@ df.info()
 
 
 # Extract location parts (city, district, neighborhood) from 'list-view-location' column
-df["city"] = df["list-view-location"].str.split("/").str[0]
 df["district"] = df["list-view-location"].str.split("/").str[1]
 df["neighborhood"] = df["list-view-location"].str.split("/").str[2]
-df["neighborhood"] = df["neighborhood"].str.split(" ").str[:-1]
+df["neighborhood"] = df["neighborhood"].str.split("Mah.").str[0].str.strip()
+
 
 
 df.info()  
@@ -56,9 +56,6 @@ df["area"].unique()
 
 
 # Clean and transform "celly 3" column and drop some columns
-
-
-
 df["celly 3"] = df["celly 3"].apply(lambda x: str(x).replace("Sıfır Bina" , "0 Yaşında"))
 df["celly 3"] = df["celly 3"].apply(lambda x: x.replace("\n" , " "))
 df["age"] = df["celly 3"].apply(lambda x: x.split(" ")[0])
